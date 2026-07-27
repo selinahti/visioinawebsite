@@ -1,0 +1,26 @@
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="legal">
+      <strong>{{ site.company.legal_name }}</strong><br>
+      Business ID {{ site.company.business_id }} · {{ site.company.city }}, {{ site.company.country }}<br>
+      <a href="mailto:{{ site.company.email }}">{{ site.company.email }}</a><br>
+      <span style="opacity:.7">© {{ site.time | date: "%Y" }} {{ site.company.legal_name }}</span>
+    </div>
+
+    <nav aria-label="Site">
+      <span class="col-head">Visioina</span>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/apps/' | relative_url }}">Apps</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </nav>
+
+    <nav aria-label="OTUS">
+      <span class="col-head">OTUS</span>
+      <a href="{{ '/apps/otus/' | relative_url }}">Overview</a>
+      <a href="{{ '/apps/otus/privacy/' | relative_url }}">Privacy Policy</a>
+      <a href="{{ '/apps/otus/terms/' | relative_url }}">Terms of Use</a>
+      <a href="{{ '/apps/otus/support/' | relative_url }}">Support</a>
+      <a href="{{ '/apps/otus/faq/' | relative_url }}">FAQ</a>
+    </nav>
+  </div>
+</footer>

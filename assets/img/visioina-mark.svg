@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Visioina">
+  <!-- orbit: reads as an orbital ring and as the curve of an eye -->
+  <ellipse cx="32" cy="32" rx="29.5" ry="12.5" stroke="currentColor" stroke-width="2.6"
+           opacity="0.45" transform="rotate(-26 32 32)"/>
+  <!-- iris -->
+  <circle cx="32" cy="32" r="13.5" stroke="currentColor" stroke-width="3.4"/>
+  <!-- pupil -->
+  <circle cx="32" cy="32" r="5.4" fill="currentColor"/>
+</svg>

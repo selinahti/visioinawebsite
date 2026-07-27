@@ -1,0 +1,24 @@
+---
+layout: base
+permalink: /404.html
+title: "Page not found"
+description: "That page does not exist."
+sitemap: false
+---
+
+<section class="hero">
+  <div class="wrap">
+    <div class="eyebrow">404</div>
+    <h1>Nothing here.</h1>
+    <p class="lede">
+      That address does not exist — it may have moved, or the link may have a
+      typo in it. These are the pages that do exist:
+    </p>
+    <div class="btn-row">
+      <a class="btn btn-primary" href="{{ '/' | relative_url }}">Home</a>
+      <a class="btn btn-ghost" href="{{ '/apps/' | relative_url }}">Apps</a>
+      <a class="btn btn-ghost" href="{{ '/apps/otus/' | relative_url }}">OTUS</a>
+      <a class="btn btn-ghost" href="{{ '/contact/' | relative_url }}">Contact</a>
+    </div>
+  </div>
+</section>

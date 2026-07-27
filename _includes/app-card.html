@@ -1,0 +1,8 @@
+<a class="card card-link" href="{{ include.app.url | relative_url }}">
+  {%- if include.app.app_icon %}
+  <img src="{{ include.app.app_icon | relative_url }}" alt="" width="52" height="52" style="border-radius:12px;margin-bottom:8px">
+  {%- endif %}
+  <h3>{{ include.app.app_name | default: include.app.title }}</h3>
+  <p>{{ include.app.summary }}</p>
+  <span class="more">{{ include.app.status | default: "Learn more" }} →</span>
+</a>

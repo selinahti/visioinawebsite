@@ -1,0 +1,102 @@
+---
+layout: base
+---
+{%- comment -%}
+  App landing page. Everything on this page is driven by the front matter of
+  _apps/<slug>/index.md — see README.md. Nothing here is OTUS-specific.
+{%- endcomment -%}
+
+<section class="app-hero">
+  <div class="wrap">
+    {%- if page.app_mascot %}
+    <img class="mascot" src="{{ page.app_mascot | relative_url }}" alt="{{ page.app_mascot_alt }}">
+    {%- elsif page.app_icon %}
+    <img class="icon" src="{{ page.app_icon | relative_url }}" alt="">
+    {%- endif %}
+    <h1>{{ page.app_name }}</h1>
+    {%- if page.tagline %}<div class="tagline">{{ page.tagline }}</div>{% endif %}
+    {%- if page.summary %}<p class="lede">{{ page.summary }}</p>{% endif %}
+    <div class="btn-row">
+      {%- if page.appstore_url %}
+      <a class="btn btn-primary" href="{{ page.appstore_url }}">Download on the App Store</a>
+      {%- else %}
+      <span class="btn btn-quiet">Coming soon to the App&nbsp;Store</span>
+      {%- endif %}
+    </div>
+  </div>
+</section>
+
+{%- if page.screenshots %}
+<section aria-label="Screenshots">
+  <div class="shots">
+    {%- for shot in page.screenshots %}
+    <img src="{{ shot.src | relative_url }}" alt="{{ shot.alt }}" loading="lazy" width="236">
+    {%- endfor %}
+  </div>
+</section>
+{%- endif %}
+
+{%- if page.features %}
+<section class="band">
+  <div class="wrap">
+    <div class="grid grid-3">
+      {%- for f in page.features %}
+      <div class="card">
+        <div class="card-icon" aria-hidden="true">{{ f.icon }}</div>
+        <h3>{{ f.title }}</h3>
+        <p>{{ f.text }}</p>
+      </div>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+{%- endif %}
+
+{%- if content != "" %}
+<section class="band tint">
+  <div class="prose article-body">
+    {{ content }}
+  </div>
+</section>
+{%- endif %}
+
+{%- if page.tiers %}
+<section class="band">
+  <div class="wrap">
+    <div class="section-head center">
+      <h2>{{ page.tiers_heading | default: "Great for free. Better with Pro." }}</h2>
+    </div>
+    <div class="tier-grid">
+      {%- for t in page.tiers %}
+      <div class="tier {{ t.kind }}">
+        <h3><span aria-hidden="true">{{ t.icon }}</span> {{ t.title }}</h3>
+        <p>{{ t.text }}</p>
+        {%- if t.points %}
+        <ul>
+          {%- for p in t.points %}<li>{{ p }}</li>{% endfor %}
+        </ul>
+        {%- endif %}
+        {%- if t.price %}<div class="price">{{ t.price }}</div>{% endif %}
+      </div>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+{%- endif %}
+
+<section class="band tint">
+  <div class="wrap center stack">
+    <h2>Questions, or something not working?</h2>
+    <p class="lede" style="margin-inline:auto">
+      Email <a href="mailto:{{ site.company.email }}?subject={{ page.app_name | uri_escape }}">{{ site.company.email }}</a>
+      — a real person reads it.
+    </p>
+    <nav class="applinks" aria-label="{{ page.app_name }} documents">
+      {%- assign docs = site.apps | where: "app_slug", page.app_slug | where_exp: "d", "d.kind != 'app'" | sort: "nav_order" -%}
+      {%- for doc in docs %}
+      <a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>
+      {%- endfor %}
+      <a href="{{ '/' | relative_url }}">← Visioina</a>
+    </nav>
+  </div>
+</section>

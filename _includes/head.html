@@ -1,0 +1,13 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="{% if page.theme == 'space' %}#050719{% else %}#114E5E{% endif %}">
+<link rel="icon" href="{{ '/assets/img/visioina-mark.svg' | relative_url }}" type="image/svg+xml">
+{%- if page.app_icon %}
+<link rel="apple-touch-icon" href="{{ page.app_icon | relative_url }}">
+{%- endif %}
+{%- comment -%}
+  ?v=<build time> makes browsers pick up style changes immediately instead of
+  serving a cached copy of the old stylesheet.
+{%- endcomment -%}
+<link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+{%- seo -%}

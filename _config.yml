@@ -1,0 +1,49 @@
+# Visioina — site configuration
+#
+# Editing tips:
+#   • company details below appear in the footer of every page
+#   • when the custom domain goes live, set baseurl to "" and url to the domain
+#     (see README.md, "Connecting the domain")
+
+title: Visioina
+tagline: Small, private apps for iPhone.
+description: >-
+  Visioina is a Finnish studio building small, privacy-first iPhone apps —
+  no accounts, no ads, no tracking.
+
+# --- URLs -------------------------------------------------------------------
+# Before the domain: url = https://selinahti.github.io , baseurl = /visioinawebsite
+# After the domain:  url = https://visioina.com        , baseurl = ""
+url: "https://selinahti.github.io"
+baseurl: "/visioinawebsite"
+
+# --- Company details (shown in the footer and on /contact/) -----------------
+company:
+  legal_name: "Visioina Oy"
+  business_id: "3352691-4"
+  city: "Espoo"
+  country: "Finland"
+  email: "visioina@gmail.com"
+
+# --- Build ------------------------------------------------------------------
+collections:
+  apps:
+    output: true
+
+defaults:
+  # Everything under _apps/ gets the dark space theme automatically, so a new
+  # app folder needs no theme setting of its own.
+  - scope: { path: "", type: "apps" }
+    values:
+      layout: app-doc
+      theme: space
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
