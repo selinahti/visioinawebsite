@@ -11,8 +11,8 @@ brand_sub: OTUS
 tagline: "Focus. Collect. Grow a galaxy."
 summary: >-
   Meet Otus — a small alien who collects stardust while you focus. Put the
-  phone down and your galaxy grows. Leave mid-mission, and poor Otus drops
-  everything.
+  phone down and your galaxy grows. Leave mid-mission, and poor Otus drops the
+  stardust.
 description: >-
   OTUS is a focus timer for iPhone. Every focused minute earns stardust you
   spend on planets, decorations and a growing galaxy. No ads, no account,
