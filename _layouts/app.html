@@ -88,8 +88,7 @@ layout: base
   <div class="wrap center stack">
     <h2>Questions, or something not working?</h2>
     <p class="lede" style="margin-inline:auto">
-      Email <a href="mailto:{{ site.company.email }}?subject={{ page.app_name | uri_escape }}">{{ site.company.email }}</a>
-      .
+      Email <a href="mailto:{{ site.company.email }}?subject={{ page.app_name | uri_escape }}">{{ site.company.email }}</a>.
     </p>
     <nav class="applinks" aria-label="{{ page.app_name }} documents">
       {%- assign docs = site.apps | where: "app_slug", page.app_slug | where_exp: "d", "d.kind != 'app'" | sort: "nav_order" -%}
