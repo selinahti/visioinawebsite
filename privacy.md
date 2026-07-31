@@ -13,8 +13,10 @@ description: >-
 
 *Last updated: 30 July 2026*
 
-This notice is about the **website** at visioina.com. Our apps are separate and
-have their own policies — see the [OTUS Privacy Policy]({{ '/apps/otus/privacy/' | relative_url }}).
+This notice is about the **website** at visioina.com. Our apps are separate
+products with their own privacy policies, and what this page says about the
+website does not describe what any app does — see the
+[OTUS Privacy Policy]({{ '/apps/otus/privacy/' | relative_url }}).
 
 ## The short version
 
@@ -52,8 +54,9 @@ GitHub's own privacy practices are described in the
 
 If you write to us, we receive your email address and whatever you put in your
 message. We use it only to reply, and keep it only as long as the conversation
-is useful — support threads are deleted once they are clearly finished. We do
-not add anyone to a mailing list and do not pass messages to anyone else.
+is useful — support threads are deleted once they are clearly finished. We will
+not add you to a mailing list without asking first, and we do not pass messages
+on to anyone else.
 
 ## Your rights
 

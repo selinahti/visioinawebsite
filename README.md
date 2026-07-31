@@ -56,6 +56,7 @@ description for screen readers.
 | Home page | `index.html` |
 | Apps overview | `apps.html` |
 | Contact page | `contact.html` |
+| Website privacy notice | `privacy.md` |
 | OTUS pages | `_apps/otus/` |
 | Company name, business ID, city, email | `_config.yml` → `company:` |
 | Top menu links | `_data/nav.yml` |

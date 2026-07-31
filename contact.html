@@ -1,18 +1,19 @@
 ---
 layout: base
 permalink: /contact/
-title: "Contact"
-description: "How to reach Visioina Oy — company details, support and press."
+title: "Contact and company details"
+description: >-
+  Visioina Oy is an independent app studio registered in Espoo, Finland.
+  Company details, app support and privacy contacts.
 ---
 
 <section class="hero">
   <div class="wrap">
     <div class="eyebrow">Contact</div>
-    <h1>One inbox, read by a person.</h1>
+    <h1>A studio.</h1>
     <p class="lede">
-      There is no ticket system and no chatbot. Email
-      <a href="mailto:{{ site.company.email }}">{{ site.company.email }}</a> and
-      you will get a reply, usually within a few days.
+      Visioina is an independent app studio registered in Espoo, Finland.
+      Below is where to go, depending on what you need.
     </p>
   </div>
 </section>
@@ -24,34 +25,35 @@ description: "How to reach Visioina Oy — company details, support and press."
         <div class="card-icon" aria-hidden="true">🛟</div>
         <h3>App support</h3>
         <p>
-          Something broken, or a feature idea? Include your iOS version and what
-          you were doing when it happened.
+          Something broken, or an idea for what an app should do next? Each app
+          has its own support page with the fastest way to reach the people who
+          can actually fix it.
         </p>
         <span class="more">
-          <a href="mailto:{{ site.company.email }}?subject=App%20support">Email support →</a>
+          <a href="{{ '/apps/otus/support/' | relative_url }}">OTUS support →</a>
         </span>
       </div>
       <div class="card">
         <div class="card-icon" aria-hidden="true">🔐</div>
-        <h3>Privacy</h3>
+        <h3>Privacy and data</h3>
         <p>
-          Questions about what our apps store, or requests about your data.
-          The short answer is in each app's privacy policy.
+          Questions about what an app stores, or a request about your own data?
+          Write to
+          <a href="mailto:{{ site.company.email }}?subject=Privacy">{{ site.company.email }}</a>
+          .
         </p>
         <span class="more">
-          <a href="{{ '/apps/otus/privacy/' | relative_url }}">OTUS privacy policy →</a>
+          <a href="{{ '/privacy/' | relative_url }}">Website privacy notice →</a>
         </span>
       </div>
       <div class="card">
-        <div class="card-icon" aria-hidden="true">📰</div>
-        <h3>Press &amp; business</h3>
+        <div class="card-icon" aria-hidden="true">🇫🇮</div>
+        <h3>The company</h3>
         <p>
-          Press assets, collaboration, or anything about the company itself —
-          same address, and please say which app you mean.
+          Visioina Oy is a registered Finnish limited company. The formal
+          details — legal name, Business ID and registered home municipality —
+          are listed below and in the footer of every page.
         </p>
-        <span class="more">
-          <a href="mailto:{{ site.company.email }}?subject=Press">Email us →</a>
-        </span>
       </div>
     </div>
 
@@ -63,7 +65,7 @@ description: "How to reach Visioina Oy — company details, support and press."
       <div><span class="k">Business ID</span> <span>{{ site.company.business_id }}</span></div>
       <div><span class="k">Registered in</span> <span>{{ site.company.city }}, {{ site.company.country }}</span></div>
       <div><span class="k">Email</span> <span><a href="mailto:{{ site.company.email }}">{{ site.company.email }}</a></span></div>
-      <div><span class="k">Business</span> <span>Mobile application development</span></div>
+      <div><span class="k">Business</span> <span>Mobile application and game development</span></div>
     </div>
   </div>
 </section>
