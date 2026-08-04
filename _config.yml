@@ -12,10 +12,11 @@ description: >-
   apps and games that are useful, playful and built with care.
 
 # --- URLs -------------------------------------------------------------------
-# Before the domain: url = https://selinahti.github.io , baseurl = /visioinawebsite
-# After the domain:  url = https://visioina.com        , baseurl = ""
-url: "https://selinahti.github.io"
-baseurl: "/visioinawebsite"
+# The custom domain is live, so the site is served from the root of
+# visioina.com and baseurl stays empty. The CNAME file in the repository root
+# is what tells GitHub Pages which domain to answer on.
+url: "https://visioina.com"
+baseurl: ""
 
 # --- Company details (shown in the footer and on /contact/) -----------------
 company:
