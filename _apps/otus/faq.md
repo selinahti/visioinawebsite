@@ -47,6 +47,17 @@ Screen Time permission in the Settings app: that disables Deep Focus entirely.
 
 10 to 90 minutes in the free version. OTUS Pro unlocks missions up to 6 hours.
 
+### What does 'OTUS' mean?
+
+*Otus* is the Finnish word for a creature — the affectionate kind. You would use
+it for a small animal you can't quite name: something that scurries past you in
+the forest, or a friend's peculiar cat. Visioina is a Finnish studio, so naming
+our alien after it felt like the obvious thing to do.
+
+It fits him, too. Otus is a small creature who lives in your phone, gathers
+stardust while you're busy elsewhere, and is genuinely delighted when you put
+the phone down.
+
 ### How do streaks work?
 
 Focus at least 25 minutes in a day and that day qualifies. Consecutive qualified
