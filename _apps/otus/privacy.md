@@ -7,9 +7,16 @@ short_title: "Privacy"
 app_name: OTUS
 app_url: /apps/otus/
 brand_sub: OTUS
-updated: "Last updated: 18 July 2026"
+updated: "Last updated: 10 August 2026"
 description: "OTUS collects nothing: no account, no analytics, no ads, no tracking, no servers of ours."
 ---
+
+## Who we are
+
+OTUS is published by **{{ site.company.legal_name }}** (Business ID
+{{ site.company.business_id }}, {{ site.company.city }}, {{ site.company.country }}),
+which is the data controller for the purposes of the EU General Data Protection
+Regulation. Contact: [{{ site.company.email }}](mailto:{{ site.company.email }}).
 
 OTUS is built privacy-first. The short version: **we collect nothing.** The app
 has no account system, no analytics, no ads, no tracking, and no servers of our
@@ -61,6 +68,24 @@ iOS settings, not by OTUS.
 ## Children
 
 OTUS does not collect personal information from anyone, including children.
+
+## Retention & deletion
+
+We hold nothing, so there is nothing for us to retain or delete. Your data stays
+on your device for as long as you keep OTUS installed: deleting the app removes
+the local copy immediately, and the iCloud copy is removed in Settings → Apple
+Account → iCloud → Manage Account Storage → OTUS. We set no expiry on your
+galaxy — your streaks and stardust are yours to keep until you delete them.
+
+## Your rights
+
+Because we hold no personal data about you, there is nothing for us to hand
+over, correct, or erase on request. The data OTUS creates stays on your own
+device and in your own iCloud account, both under your control — delete the app
+to remove the local copy, and manage the iCloud copy in Settings → Apple Account
+→ iCloud. You may contact us at any time with a question or a complaint, and you
+have the right to complain to your national data protection authority (in
+Finland, the Office of the Data Protection Ombudsman).
 
 ## Changes
 
