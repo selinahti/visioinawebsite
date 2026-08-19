@@ -60,6 +60,19 @@ No — the block screen has no escape button. Ending the mission early (and
 dropping the stardust) is the only way out. Please don't switch off OTUS's
 Screen Time permission in the Settings app: that disables Deep Focus entirely.
 
+### An app is still open during Deep Focus — why?
+
+Two things to check. First, on OTUS Pro, Deep Focus only blocks the apps you
+picked in Settings → Blocked apps — anything outside that selection stays
+available. The free version blocks every categorised app, so this only applies
+to Pro.
+
+Second, if you recently tapped **"Ignore Limit"** or **"15 More Minutes"** on
+that app's own Screen Time limit, iOS has given it a temporary pass. That pass
+comes from you, at the system level, and OTUS cannot cancel it — the app stays
+reachable until the pass runs out. You can end it sooner in
+Settings → Screen Time.
+
 ### How long can a focus session be?
 
 10 to 90 minutes in the free version. OTUS Pro unlocks missions up to 6 hours.
