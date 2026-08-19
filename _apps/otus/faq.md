@@ -13,8 +13,24 @@ description: "Answers about OTUS focus missions, stardust, streaks, Deep Focus, 
 
 ### How do I earn stardust?
 
-Your alien collects 100 stardust per focused minute. Finish the full timer for a
-+20% bonus, and growing streaks add up to +50% more.
+Three things add up:
+
+- **100 stardust for every focused minute** — the base
+- **+20% for finishing** the full timer
+- **+5% for each streak day**, up to +50% at a ten-day streak
+
+Both bonuses are a percentage of the base, and both apply to every mission you
+finish. So a 50-minute mission on a six-day streak pays
+5,000 + 1,000 + 1,500 = **7,500 stardust**.
+
+### What if I give up or leave the app?
+
+Give up on purpose and Otus keeps **half** of the stardust collected so far,
+with no bonuses. Wander into another app in Normal mode and don't come back
+within 30 seconds, and the whole lot is dropped.
+
+Either way, the minutes you did focus still count toward your daily 25 and your
+lifetime total — stardust is what you lose, never your progress.
 
 ### Is OTUS free?
 
@@ -30,6 +46,7 @@ rides.
 
 In Normal mode, switching to another app starts a 30-second countdown — come
 back in time or the stardust is dropped. Locking your phone is always fine.
+Giving up deliberately is treated more kindly: see above.
 
 ### What is Deep Focus?
 
