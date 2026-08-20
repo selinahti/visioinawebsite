@@ -39,8 +39,8 @@ from 10 to 90 minutes, full stardust earning, streaks, decorations, new planets,
 sharing, and Deep Focus that blocks all distracting apps. No ads ever.
 **OTUS Pro** (€2.99/month or €25.99/year) adds the power-ups: choose exactly
 which apps get blocked, missions up to 6 hours, your timer in the Dynamic Island
-and on the Lock Screen, the exclusive Cosmic skin, planet styles, and special
-rides.
+and on the Lock Screen, the exclusive Cosmic skin, planet styles, and the
+Tea Saucer ride.
 
 ### What breaks a focus session?
 
@@ -98,6 +98,14 @@ automatically protect the streak on a missed day.
 
 Decorations for your planets — moons, stars, rings, comets, auroras, volcanoes,
 even a black hole — plus streak freezes, new planets, and more.
+
+### Are there rides money can't buy?
+
+Two of them. The **Cosmic Kettle** opens once your lifetime focus passes
+**100 hours**, and the **Hydroplane** at **500 hours**. They carry no price and
+never go on sale — the shop simply shows how many hours are left. Every focused
+minute counts towards them, including the minutes from a mission you gave up on,
+so a bad day still moves you closer.
 
 ### What happens when I get a new iPhone?
 
