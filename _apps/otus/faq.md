@@ -101,11 +101,10 @@ even a black hole — plus streak freezes, new planets, and more.
 
 ### Are there rides money can't buy?
 
-Two of them. The **Cosmic Kettle** opens once your lifetime focus passes
-**100 hours**, and the **Hydroplane** at **500 hours**. They carry no price and
-never go on sale — the shop simply shows how many hours are left. Every focused
-minute counts towards them, including the minutes from a mission you gave up on,
-so a bad day still moves you closer.
+Yes. The shop has an **Earned rides** shelf, and nothing on it has a price. Each
+ride there opens when your lifetime focus reaches the hours marked on it,
+starting with the **Cosmic Kettle** at **100 hours**. They never go on sale, and
+the shelf always shows how many hours you have left.
 
 ### What happens when I get a new iPhone?
 
