@@ -103,8 +103,8 @@ even a black hole — plus streak freezes, new planets, and more.
 
 Yes. The shop has an **Earned rides** shelf, and nothing on it has a price. Each
 ride there opens when your lifetime focus reaches the hours marked on it,
-starting with the **Cosmic Kettle** at **100 hours**. They never go on sale, and
-the shelf always shows how many hours you have left.
+starting with the **Viking Longship** at **100 hours**. They never go on sale,
+and the shelf always shows how many hours you have left.
 
 ### What happens when I get a new iPhone?
 
