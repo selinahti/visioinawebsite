@@ -19,7 +19,7 @@ description: >-
   no tracking.
 
 app_icon: /assets/apps/otus/icon.png
-app_mascot: /assets/apps/otus/otus.png
+app_mascot: /assets/apps/otus/otus_happy.png
 app_mascot_alt: "Otus, a mint-green alien with one glowing antenna"
 platform: "iPhone · iOS 17 or later"
 appstore_url:            # ← paste the App Store link here once the app is live
