@@ -41,7 +41,7 @@ screenshots:
   - src: /assets/apps/otus/shot-07.jpg
     alt: "The cosmic shop"
   - src: /assets/apps/otus/shot-08.jpg
-    alt: "Otus riding the tea saucer"
+    alt: "Otus riding the water lily"
 
 features:
   - icon: "🛸"
