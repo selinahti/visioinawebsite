@@ -120,9 +120,9 @@ that phone, just on that phone.
 
 Your galaxy travels with you: progress (streaks, stardust, planets, your alien)
 syncs through your personal iCloud, so a new iPhone signed in to the same Apple
-Account picks it up automatically — provided iCloud is switched on for OTUS on
-both phones, as above. For paid items, tap *Restore purchases* in the shop or
-Settings.
+Account picks it up automatically — provided OTUS was switched on for iCloud on
+your old phone, which is what put your galaxy there, and is switched on again on
+the new one. For paid items, tap *Restore purchases* in the shop or Settings.
 
 ### How do I cancel OTUS Pro?
 
