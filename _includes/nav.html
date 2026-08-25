@@ -1,10 +1,24 @@
 <header class="site-header">
   <div class="wrap">
-    <a class="brand" href="{{ '/' | relative_url }}">
-      {% include mark.svg %}
-      <span>Visioina</span>
-      {%- if page.brand_sub %}<span class="sub">{{ page.brand_sub }}</span>{% endif %}
-    </a>
+    {%- comment -%}
+      Two links, not one. "Visioina" goes to the studio; the app name beside it
+      goes to that app's own home — as one anchor the app name quietly took you
+      out of the app section. On the app's home page there is nowhere to go, so
+      it renders as plain text rather than a link to itself.
+    {%- endcomment -%}
+    <div class="brand-group">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        {% include mark.svg %}
+        <span>Visioina</span>
+      </a>
+      {%- if page.brand_sub %}
+        {%- if page.app_url %}
+      <a class="sub" href="{{ page.app_url | relative_url }}">{{ page.brand_sub }}</a>
+        {%- else %}
+      <span class="sub" aria-current="page">{{ page.brand_sub }}</span>
+        {%- endif %}
+      {%- endif %}
+    </div>
     <nav class="site-nav" aria-label="Main">
       {%- for item in site.data.nav %}
       <a href="{{ item.url | relative_url }}"

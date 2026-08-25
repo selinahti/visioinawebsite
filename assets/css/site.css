@@ -152,19 +152,27 @@ body.theme-space .site-header { background: rgba(5, 7, 25, 0.72); }
   min-height: 66px;
 }
 
+/* The studio name and the app name are separate links, so the group holds the
+   spacing that used to belong to the single anchor. */
+.brand-group {
+  display: inline-flex; align-items: center; gap: 12px;
+  margin-right: auto;
+}
 .brand {
   display: inline-flex; align-items: center; gap: 10px;
   font-family: var(--font-round);
   font-weight: 700; font-size: 1.05rem;
   letter-spacing: -0.02em;
   color: var(--ink); text-decoration: none;
-  margin-right: auto;
 }
 .brand svg, .brand img { width: 28px; height: 28px; flex: none; }
-.brand .sub {
+.brand-group .sub {
+  font-family: var(--font-round);
   font-weight: 500; font-size: .82rem; color: var(--muted);
-  border-left: 1px solid var(--border); padding-left: 10px; margin-left: 2px;
+  border-left: 1px solid var(--border); padding-left: 10px;
+  text-decoration: none;
 }
+a.sub:hover { color: var(--ink); }
 
 .site-nav { display: flex; align-items: center; gap: 4px; flex-wrap: wrap; }
 .site-nav a {
