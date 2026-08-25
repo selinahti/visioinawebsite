@@ -44,7 +44,7 @@
 
 /* dark space theme — app pages */
 body.theme-space {
-  --bg:          #050719;
+  --bg:          #05081A;
   --bg-alt:      #0B0D28;
   --bg-page:     transparent;
   --surface:     rgba(255, 255, 255, 0.06);
@@ -58,7 +58,7 @@ body.theme-space {
   --shadow:      none;
   --shadow-lg:   0 24px 60px rgba(0, 0, 0, .45);
 
-  background: linear-gradient(180deg, #050719 0%, #10123A 55%, #17123D 100%);
+  background: linear-gradient(180deg, #05081A 0%, #10123A 55%, #17123D 100%);
   background-attachment: fixed;
 }
 
