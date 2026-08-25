@@ -106,12 +106,23 @@ ride there opens when your lifetime focus reaches the hours marked on it,
 starting with the **Viking Longship** at **100 hours**. They never go on sale,
 and the shelf always shows how many hours you have left.
 
+### Do I need iCloud?
+
+Only to sync between devices. OTUS runs perfectly without it — everything lives
+on your iPhone either way.
+
+For your galaxy to follow you to another device, be signed in to iCloud with
+OTUS switched on under Settings → your name → iCloud → Saved to iCloud → See
+All. Turn it off and nothing is lost: OTUS keeps working exactly as before on
+that phone, just on that phone.
+
 ### What happens when I get a new iPhone?
 
 Your galaxy travels with you: progress (streaks, stardust, planets, your alien)
 syncs through your personal iCloud, so a new iPhone signed in to the same Apple
-Account picks it up automatically. For paid items, tap *Restore purchases* in
-the shop or Settings.
+Account picks it up automatically — provided iCloud is switched on for OTUS on
+both phones, as above. For paid items, tap *Restore purchases* in the shop or
+Settings.
 
 ### How do I cancel OTUS Pro?
 
