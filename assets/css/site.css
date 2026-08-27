@@ -8,14 +8,14 @@
    markup.
 
    Palette comes from the app itself: petrol #114E5E is the App Store
-   screenshot background, mint #66EBC7 is the colour Otus is drawn in.
+   screenshot background, mint #66EBCC is the colour Otus is drawn in.
    ========================================================================== */
 
 :root {
   /* brand constants — identical in both themes */
   --petrol:      #114E5E;
   --petrol-deep: #0A3542;
-  --mint:        #66EBC7;
+  --mint:        #66EBCC;
   --stardust:    #FFD14A;
   --flame:       #FF7333;
 
@@ -51,7 +51,7 @@ body.theme-space {
   --surface-alt: rgba(255, 255, 255, 0.04);
   --ink:         #F2F2F7;
   --muted:       rgba(242, 242, 247, 0.62);
-  --accent:      #66EBC7;
+  --accent:      #66EBCC;
   --accent-ink:  #04121C;
   --border:      rgba(255, 255, 255, 0.12);
   --border-soft: rgba(255, 255, 255, 0.07);
