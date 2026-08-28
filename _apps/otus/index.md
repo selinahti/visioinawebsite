@@ -42,6 +42,8 @@ screenshots:
     alt: "The cosmic shop"
   - src: /assets/apps/otus/shot-08.jpg
     alt: "Otus riding the water lily"
+  - src: /assets/apps/otus/shot-09.jpg
+    alt: "The shop's alien skins shelf, all thirteen with their prices"
 
 features:
   - icon: "🛸"
