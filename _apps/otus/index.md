@@ -25,25 +25,29 @@ platform: "iPhone · iOS 17 or later"
 appstore_url:            # ← paste the App Store link here once the app is live
 status: "Coming soon"
 
+# Display order, not file order. Each shot-NN.jpg keeps the number of the
+# screen it was captured from in the app repo (screenshots/raw/), so this
+# list is the only thing that decides what the page shows first — do not
+# "fix" the sequence by renaming the files.
 screenshots:
   - src: /assets/apps/otus/shot-01.jpg
     alt: "The focus dial, set for a mission"
   - src: /assets/apps/otus/shot-02.jpg
     alt: "A session running while Otus collects stardust"
-  - src: /assets/apps/otus/shot-03.jpg
-    alt: "Deep Focus app blocking"
-  - src: /assets/apps/otus/shot-04.jpg
-    alt: "A streak celebration with the comet"
   - src: /assets/apps/otus/shot-05.jpg
     alt: "A decorated planet"
-  - src: /assets/apps/otus/shot-06.jpg
-    alt: "The galaxy view with several planets"
-  - src: /assets/apps/otus/shot-07.jpg
-    alt: "The cosmic shop"
   - src: /assets/apps/otus/shot-08.jpg
     alt: "Otus riding the water lily"
   - src: /assets/apps/otus/shot-09.jpg
     alt: "The shop's alien skins shelf, all thirteen with their prices"
+  - src: /assets/apps/otus/shot-04.jpg
+    alt: "A streak celebration with the comet"
+  - src: /assets/apps/otus/shot-06.jpg
+    alt: "The galaxy view with several planets"
+  - src: /assets/apps/otus/shot-07.jpg
+    alt: "The cosmic shop"
+  - src: /assets/apps/otus/shot-03.jpg
+    alt: "Deep Focus app blocking"
 
 features:
   - icon: "🛸"
