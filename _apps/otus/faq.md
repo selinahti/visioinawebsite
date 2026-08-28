@@ -129,6 +129,12 @@ the new one. For paid items, tap *Restore purchases* in the shop or Settings.
 Subscriptions are managed by Apple: Settings → your name → Subscriptions →
 OTUS Pro → Cancel. You keep Pro until the end of the paid period.
 
+After that, the cosmetics that come with Pro — the Cosmic skin, the Tea Saucer
+and the Cosmic saucer — go back to the shop, and Otus puts on the most recent
+thing you bought instead. Anything you bought outright is yours: skins, saucers
+and rides, along with the rides you earned with focused hours, your planets,
+their decorations and your stardust.
+
 ### Why doesn't the timer appear in the Dynamic Island?
 
 The Live Activity timer (Lock Screen & Dynamic Island) is an OTUS Pro feature,
