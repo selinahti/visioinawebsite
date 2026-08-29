@@ -25,9 +25,8 @@ consumer protections of the country you live in.
 - OTUS is a focus aid, not a medical device or a treatment for any condition.
   You are responsible for how you use your device and your time; OTUS makes no
   guarantees about productivity outcomes.
-- You need to be old enough to agree to these terms where you live, or have
-  a parent or guardian's permission. Purchases are charged to an Apple Account
-  — if that account belongs to someone else, ask them first.
+- You need to be old enough to agree to these terms. If you are not, a parent
+  or guardian has to agree for you, and has to approve anything you buy.
 - Deep Focus depends on Apple's Screen Time technology; its availability and
   behavior can change with iOS updates.
 - The app is provided as-is, without warranty of any kind, to the maximum extent
