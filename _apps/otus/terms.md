@@ -7,7 +7,7 @@ short_title: "Terms"
 app_name: OTUS
 app_url: /apps/otus/
 brand_sub: OTUS
-updated: "Last updated: 10 August 2026"
+updated: "Last updated: 29 August 2026"
 description: "The terms that apply when you use OTUS, including subscriptions and in-app purchases."
 ---
 
@@ -22,8 +22,12 @@ consumer protections of the country you live in.
 
 ## The app
 
-- OTUS is a focus aid. You are responsible for how you use your device and your
-  time; OTUS makes no guarantees about productivity outcomes.
+- OTUS is a focus aid, not a medical device or a treatment for any condition.
+  You are responsible for how you use your device and your time; OTUS makes no
+  guarantees about productivity outcomes.
+- You need to be old enough to agree to these terms where you live, or have
+  a parent or guardian's permission. Purchases are charged to an Apple Account
+  — if that account belongs to someone else, ask them first.
 - Deep Focus depends on Apple's Screen Time technology; its availability and
   behavior can change with iOS updates.
 - The app is provided as-is, without warranty of any kind, to the maximum extent
@@ -55,6 +59,29 @@ consumer protections of the country you live in.
 - Stardust (the in-app currency) has no monetary value and cannot be exchanged
   or transferred outside the app. It is not sold separately from the purchases
   above, and it carries no cash-redemption right.
+
+## Our work
+
+- The app, its artwork, Otus himself and the OTUS name belong to
+  {{ site.company.legal_name }}. Every drawing in the app is our own.
+- Buying OTUS Pro or an item gives you a personal licence to use the app on the
+  terms of Apple's standard EULA. It transfers no ownership of anything.
+- Don't copy, extract, redistribute or resell the artwork, or reuse the name for
+  another app. Screenshots, and the pictures OTUS makes for you to share, are
+  yours to post wherever you like.
+
+## Changes to the app and to these terms
+
+- We may add, change or remove features, and we may one day stop publishing
+  OTUS. If that happens we will say so here rather than letting it go quiet. A
+  copy already installed keeps working for as long as your device and iOS allow
+  it to, which is not something we can promise indefinitely.
+- Keeping up with iOS may require app updates. We support recent iOS versions
+  rather than every version Apple has ever released.
+- We may revise these terms. The date at the top of this page changes when we
+  do, and the current version always lives at this address. Continuing to use
+  OTUS after a change means you accept it — but a change never applies
+  backwards to a purchase you have already made.
 
 ## Contact
 
