@@ -37,8 +37,8 @@ lifetime total — stardust is what you lose, never your progress.
 Yes — and the free version is the whole adventure, not a demo: focus missions
 from 5 minutes to 1 h 30, full stardust earning, streaks, decorations, new planets,
 sharing, and Deep Focus that blocks all distracting apps. No ads ever.
-**OTUS Pro** (€2.99/month or €25.99/year) adds the power-ups: choose exactly
-which apps get blocked, missions up to 8 hours, your timer in the Dynamic Island
+**OTUS Pro** (€2.99/month or €25.99/year) adds the power-ups: choose which
+apps get blocked, missions up to 8 hours, your timer in the Dynamic Island
 and on the Lock Screen, the exclusive Cosmic skin, planet styles, and the
 Tea Saucer ride.
 
@@ -51,8 +51,8 @@ Giving up deliberately is treated more kindly: see above.
 ### What is Deep Focus?
 
 Deep Focus uses Apple's Screen Time to actually block apps during your session.
-The free version blocks all distracting apps; OTUS Pro lets you choose exactly
-which. It asks for the Screen Time permission when first used.
+The free version blocks all distracting apps; OTUS Pro lets you choose which
+ones. It asks for the Screen Time permission when first used.
 
 ### Can I bypass Deep Focus?
 

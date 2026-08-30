@@ -101,7 +101,7 @@ tiers:
     text: >-
       For people who want the power-ups.
     points:
-      - "Pick exactly which apps get blocked"
+      - "Pick which apps get blocked"
       - "Missions up to 8 hours"
       - "Timer in the Dynamic Island and on the Lock Screen"
       - "The exclusive Cosmic skin and planet styles"

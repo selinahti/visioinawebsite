@@ -34,8 +34,8 @@ back in time or the stardust is dropped. Locking your phone is always fine.
 ### What is Deep Focus?
 
 Deep Focus uses Apple's Screen Time to actually block apps during your session.
-The free version blocks all distracting apps; OTUS Pro lets you choose exactly
-which. It requires the Screen Time permission when first used.
+The free version blocks all distracting apps; OTUS Pro lets you choose which
+ones. It requires the Screen Time permission when first used.
 
 ### Can I bypass Deep Focus?
 

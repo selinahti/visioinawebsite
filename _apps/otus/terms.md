@@ -50,9 +50,9 @@ consumer protections of the country you live in.
   Saucer and the Cosmic saucer. They are part of the subscription rather than
   separate purchases, so they are no longer available once it ends. Items bought
   outright remain yours.
-- A pouch of stardust is consumable: it is spent inside the app, so it cannot be
-  restored on another device the way a skin or a ride can. The stardust balance
-  itself travels with your galaxy when iCloud sync is on.
+- A pouch of stardust is consumable: it is spent inside the app, so no size of
+  it can be restored on another device the way a skin or a ride can. The
+  stardust balance itself travels with your galaxy when iCloud sync is on.
 - All payments and refunds are handled by Apple, not by us. We cannot issue,
   refuse, or reverse a charge — refund requests go to Apple via
   [reportaproblem.apple.com](https://reportaproblem.apple.com).
