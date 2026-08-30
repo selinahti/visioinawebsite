@@ -35,10 +35,10 @@ lifetime total — stardust is what you lose, never your progress.
 ### Is OTUS free?
 
 Yes — and the free version is the whole adventure, not a demo: focus missions
-from 10 to 90 minutes, full stardust earning, streaks, decorations, new planets,
+from 5 minutes to 1 h 30, full stardust earning, streaks, decorations, new planets,
 sharing, and Deep Focus that blocks all distracting apps. No ads ever.
 **OTUS Pro** (€2.99/month or €25.99/year) adds the power-ups: choose exactly
-which apps get blocked, missions up to 6 hours, your timer in the Dynamic Island
+which apps get blocked, missions up to 8 hours, your timer in the Dynamic Island
 and on the Lock Screen, the exclusive Cosmic skin, planet styles, and the
 Tea Saucer ride.
 
@@ -75,17 +75,16 @@ Settings → Screen Time.
 
 ### Want Safari blocked too?
 
-Ticking every category in Apple's app picker does not include Safari
-— it sits outside them, so the only way to catch it is to search
-for it by name in the picker and tick it there. After that Deep Focus shields it
-like anything else.
+Ticking every category in Apple's app picker does not include Safari — it sits
+outside them, so the only way to catch it is to search for it by name in the
+picker and tick it there. After that Deep Focus shields it like anything else.
 
 That picker is Apple's, not ours, and it hands back a sealed selection: OTUS
 knows how many apps you chose and nothing about which ones.
 
 ### How long can a focus session be?
 
-10 to 90 minutes in the free version. OTUS Pro unlocks missions up to 6 hours.
+5 minutes to 1 h 30 in the free version. OTUS Pro unlocks missions up to 8 hours.
 
 ### What does 'OTUS' mean?
 

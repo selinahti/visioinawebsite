@@ -53,7 +53,7 @@ features:
   - icon: "🛸"
     title: Focus missions
     text: >-
-      Set a timer from 10 minutes to 6 hours. Every focused minute earns
+      Set a timer from 5 minutes to 8 hours. Every focused minute earns
       100 stardust — finish the mission for a +20% bonus.
   - icon: "🔒"
     title: Deep Focus
@@ -89,7 +89,7 @@ tiers:
     text: >-
       The free app is the whole adventure, not a demo.
     points:
-      - "Missions from 10 to 90 minutes"
+      - "Missions from 5 minutes to 1 h 30"
       - "Full stardust earning, streaks and streak freezes"
       - "Decorations, new planets, the whole galaxy"
       - "Deep Focus blocking all distracting apps"
@@ -102,7 +102,7 @@ tiers:
       For people who want the power-ups.
     points:
       - "Pick exactly which apps get blocked"
-      - "Missions up to 6 hours"
+      - "Missions up to 8 hours"
       - "Timer in the Dynamic Island and on the Lock Screen"
       - "The exclusive Cosmic skin and planet styles"
       - "Special rides, including the Tea Saucer"
