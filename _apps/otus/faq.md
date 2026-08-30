@@ -73,6 +73,16 @@ comes from you, at the system level, and OTUS cannot cancel it — the app stays
 reachable until the pass runs out. You can end it sooner in
 Settings → Screen Time.
 
+### Want Safari blocked too?
+
+Then tick it on its own. Ticking every category in Apple's app picker does not
+include Safari — it sits outside them, so the only way to catch it is to search
+for it by name in the picker and tick it there. After that Deep Focus shields it
+like anything else.
+
+That picker is Apple's, not ours, and it hands back a sealed selection: OTUS
+knows how many apps you chose and nothing about which ones.
+
 ### How long can a focus session be?
 
 10 to 90 minutes in the free version. OTUS Pro unlocks missions up to 6 hours.

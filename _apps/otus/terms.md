@@ -7,7 +7,7 @@ short_title: "Terms"
 app_name: OTUS
 app_url: /apps/otus/
 brand_sub: OTUS
-updated: "Last updated: 29 August 2026"
+updated: "Last updated: 30 August 2026"
 description: "The terms that apply when you use OTUS, including subscriptions and in-app purchases."
 ---
 
@@ -27,8 +27,12 @@ consumer protections of the country you live in.
   guarantees about productivity outcomes.
 - You need to be old enough to agree to these terms. If you are not, a parent
   or guardian has to agree for you, and has to approve anything you buy.
-- Deep Focus depends on Apple's Screen Time technology; its availability and
-  behavior can change with iOS updates.
+- Deep Focus is built on Apple's Screen Time and Family Controls. That
+  framework is Apple's, not ours: an iOS update can change how it behaves,
+  change what a selection of apps actually covers, or withdraw it altogether.
+  If that changes what Deep Focus blocks, it is not something OTUS can override
+  from the inside — we can only update the app to keep up, where Apple leaves a
+  way to.
 - The app is provided as-is, without warranty of any kind, to the maximum extent
   permitted by law.
 
@@ -55,6 +59,11 @@ consumer protections of the country you live in.
 - If you are a consumer in the EU or UK, your statutory right to withdraw from a
   digital purchase within 14 days is unaffected by these terms. That right is
   administered by Apple as the seller.
+- Parts of OTUS Pro rest on Apple technology we do not control: choosing which
+  apps Deep Focus blocks, and the Lock Screen and Dynamic Island timer. If Apple
+  changes or withdraws one of those, that part of Pro changes or stops with it.
+  We would say so on this page rather than let it go quiet. Billing is Apple's,
+  so anything you want to do about it goes to them.
 - Stardust (the in-app currency) has no monetary value and cannot be exchanged
   or transferred outside the app. It is not sold separately from the purchases
   above, and it carries no cash-redemption right.
