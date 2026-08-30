@@ -75,8 +75,8 @@ Settings → Screen Time.
 
 ### Want Safari blocked too?
 
-Then tick it on its own. Ticking every category in Apple's app picker does not
-include Safari — it sits outside them, so the only way to catch it is to search
+Ticking every category in Apple's app picker does not include Safari
+— it sits outside them, so the only way to catch it is to search
 for it by name in the picker and tick it there. After that Deep Focus shields it
 like anything else.
 
