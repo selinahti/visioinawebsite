@@ -32,13 +32,21 @@ where you left off:
 - Your alien's name and appearance
 - Focus session history, streaks, and stardust balance
 - Planet decorations and galaxy progress
-- App preferences (notification times, toggles)
+
+App preferences — notification times, break length, the toggles in Settings —
+stay on each device and are not synced.
 
 The sync happens entirely between your device and your personal iCloud account —
 we have no copy and no way to access it. Deleting the app removes the local
 data; the iCloud copy can be removed in Settings → Apple Account → iCloud →
-Manage Account Storage → OTUS. Turning iCloud off for OTUS keeps everything
-working, local-only.
+Manage Account Storage → OTUS.
+
+Signing out of iCloud leaves everything where it is: OTUS keeps working on that
+device, local-only, and syncs again when you sign back in. Switching **OTUS
+itself** off under Settings → Apple Account → iCloud does something different —
+it asks iOS to remove the app's iCloud data *from that device*, so OTUS opens
+empty and tells you why. Nothing is deleted from iCloud, and switching it back
+on restores everything.
 
 ## Screen Time (Deep Focus)
 
