@@ -135,18 +135,18 @@ and the shelf shows how many hours you have left.
 
 ### Do I need iCloud?
 
-Only to sync between devices. OTUS runs perfectly without it — everything lives
-on your iPhone either way.
+Only to sync between devices. Without an iCloud account OTUS runs perfectly
+well and keeps everything on that iPhone.
 
 For your galaxy to follow you to another device, be signed in to iCloud with
 OTUS switched on under Settings → your name → iCloud → Saved to iCloud → See
 All.
 
-If you switch OTUS off there, nothing is lost — but that switch means "remove
-this app's iCloud data from this device", so OTUS opens empty and says so on
-screen. Your galaxy is still in iCloud, and switching it back on brings it
-straight back. Signing out of iCloud is different: everything stays put and
-OTUS carries on exactly as before, just on that phone.
+Once your galaxy is in iCloud, that is where it lives — so it follows your
+iCloud rather than the phone. Switch OTUS off there, or sign out of iCloud, and
+iOS removes the app's iCloud data from that device: OTUS opens empty and tells
+you on screen where your galaxy is. **Nothing is lost.** Switch it back on, or
+sign back in, and everything comes home.
 
 Your settings — reminder time, break length, whether Otus asks for a tag — live
 on each device rather than in iCloud, so a new phone starts with the defaults.

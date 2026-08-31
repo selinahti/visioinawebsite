@@ -41,12 +41,16 @@ we have no copy and no way to access it. Deleting the app removes the local
 data; the iCloud copy can be removed in Settings → Apple Account → iCloud →
 Manage Account Storage → OTUS.
 
-Signing out of iCloud leaves everything where it is: OTUS keeps working on that
-device, local-only, and syncs again when you sign back in. Switching **OTUS
-itself** off under Settings → Apple Account → iCloud does something different —
-it asks iOS to remove the app's iCloud data *from that device*, so OTUS opens
-empty and tells you why. Nothing is deleted from iCloud, and switching it back
-on restores everything.
+Because your galaxy lives in iCloud, it goes where your iCloud goes. Switching
+OTUS off under Settings → Apple Account → iCloud, or signing out of iCloud
+altogether, asks iOS to remove the app's iCloud data *from that device* — so
+OTUS opens empty and tells you on screen where your galaxy is. **Nothing is
+deleted from iCloud.** Switch OTUS back on, or sign back in, and everything
+returns.
+
+OTUS does not need iCloud to run: with no iCloud account it works normally and
+keeps everything on that device. But if your galaxy is already in iCloud, that
+is where it stays.
 
 ## Screen Time (Deep Focus)
 
