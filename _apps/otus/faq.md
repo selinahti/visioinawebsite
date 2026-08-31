@@ -151,6 +151,19 @@ sign back in, and everything comes home.
 Your settings — reminder time, break length, whether Otus asks for a tag — live
 on each device rather than in iCloud, so a new phone starts with the defaults.
 
+### Can I start over?
+
+Yes — Settings → **Start over**, at the very bottom. It erases your alien,
+stardust, streak, planets, missions and tags, on every device signed in to your
+iCloud, and cannot be undone.
+
+Anything you paid for is kept. Pro, skins, saucers and rides all come back with
+Restore Purchases. Stardust is the exception: it is spent inside the app, so
+packs you bought cannot be restored.
+
+Deleting the app is not the same thing — your galaxy is in iCloud, so it comes
+straight back when you reinstall.
+
 ### What happens when I get a new iPhone?
 
 Your galaxy travels with you: progress (streaks, stardust, planets, your alien)
