@@ -50,6 +50,10 @@ consumer protections of the country you live in.
   Saucer and the Cosmic saucer. They are part of the subscription rather than
   separate purchases, so they are no longer available once it ends. Items bought
   outright remain yours.
+- Focus tags are your own data, not an item on loan. If OTUS Pro ends, the app
+  stops asking for a tag before a mission, but the tags themselves and every
+  mission you have tagged stay exactly where they are — on your device, and in
+  your iCloud if sync is on.
 - A pouch of stardust is consumable: it is spent inside the app, so no size of
   it can be restored on another device the way a skin or a ride can. The
   stardust balance itself travels with your galaxy when iCloud sync is on.

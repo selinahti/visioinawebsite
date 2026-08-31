@@ -38,8 +38,8 @@ Yes — and the free version is the whole adventure, not a demo: focus missions
 from 5 minutes to 1 h 30, full stardust earning, streaks, decorations, new planets,
 sharing, and Deep Focus that blocks all distracting apps. No ads ever.
 **OTUS Pro** (€2.99/month or €25.99/year) adds the power-ups: choose which
-apps get blocked, missions up to 8 hours, your timer in the Dynamic Island
-and on the Lock Screen, the exclusive Cosmic skin, planet styles, and the
+apps get blocked, missions up to 8 hours, focus tags, your timer in the Dynamic
+Island and on the Lock Screen, the exclusive Cosmic skin, planet styles, and the
 Tea Saucer ride.
 
 ### What breaks a focus session?
@@ -85,6 +85,24 @@ knows how many apps you chose and nothing about which ones.
 ### How long can a focus session be?
 
 5 minutes to 1 h 30 in the free version. OTUS Pro unlocks missions up to 8 hours.
+
+### What are focus tags?
+
+A Pro extra, and off until you switch it on: Settings → OTUS Pro → **Ask for a
+tag**. After that Otus asks what each mission is for, just before it starts —
+one tap on a tag, or Skip. You can keep up to ten, named however you like, and
+the Missions screen then shows where the hours actually went.
+
+Renaming a tag renames it everywhere, on missions you finished weeks ago
+included. Putting one away frees its slot without touching your history: the
+missions wearing it keep the name.
+
+### Where can I see how much I have focused?
+
+The Missions screen, on the Streaks tab — it is free, and it summarises a day, a
+week, a month or a year: time focused, stardust earned, how many missions you
+started and how many you finished. Minutes count even when a mission was given
+up; only the stardust is lost. With Pro, it also breaks the time down by tag.
 
 ### What does 'OTUS' mean?
 
@@ -143,6 +161,9 @@ and the Cosmic saucer — go back to the shop, and Otus puts on the most recent
 thing you bought instead. Anything you bought outright is yours: skins, saucers
 and rides, along with the rides you earned with focused hours, your planets,
 their decorations and your stardust.
+
+Your focus tags stay too, and so does everything you tagged — OTUS simply stops
+asking before a mission. Subscribe again and they are where you left them.
 
 ### Why doesn't the timer appear in the Dynamic Island?
 
