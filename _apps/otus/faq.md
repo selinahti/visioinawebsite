@@ -39,8 +39,8 @@ from 5 minutes to 1 h 30, full stardust earning, streaks, decorations, new plane
 sharing, and Deep Focus that blocks all distracting apps. No ads ever.
 **OTUS Pro** (€2.99/month or €25.99/year) adds the power-ups: choose which
 apps get blocked, missions up to 8 hours, focus tags, your timer in the Dynamic
-Island and on the Lock Screen, the exclusive Cosmic skin, planet styles, and the
-Tea Saucer ride.
+Island and on the Lock Screen, the exclusive Cosmic skin, your pick of each
+planet's style, and the Tea Saucer and Cosmic saucer rides.
 
 ### What breaks a focus session?
 

@@ -108,7 +108,7 @@ tiers:
       - "Missions up to 8 hours"
       - "Tag your missions and see where the hours went"
       - "Timer in the Dynamic Island and on the Lock Screen"
-      - "The exclusive Cosmic skin and planet styles"
+      - "The exclusive Cosmic skin, and your pick of planet style"
       - "The Tea Saucer and Cosmic saucer rides"
       - "Supports an ad-free, privacy-first app"
     price: "€2.99 / month · €25.99 / year"
