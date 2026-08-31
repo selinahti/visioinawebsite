@@ -91,6 +91,7 @@ tiers:
     points:
       - "Missions from 5 minutes to 1 h 30"
       - "Full stardust earning, streaks and streak freezes"
+      - "Day, week, month and year summaries of your focus"
       - "Decorations, new planets, the whole galaxy"
       - "Deep Focus blocking all distracting apps"
       - "Sharing your streak or galaxy as a picture"
@@ -103,9 +104,10 @@ tiers:
     points:
       - "Pick which apps get blocked"
       - "Missions up to 8 hours"
+      - "Tag your missions and see where the hours went"
       - "Timer in the Dynamic Island and on the Lock Screen"
       - "The exclusive Cosmic skin and planet styles"
-      - "Special rides, including the Tea Saucer"
+      - "The Tea Saucer and Cosmic saucer rides"
     price: "€2.99 / month · €25.99 / year"
 ---
 
