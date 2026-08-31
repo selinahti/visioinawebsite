@@ -39,9 +39,11 @@ screenshots:
   - src: /assets/apps/otus/shot-08.jpg
     alt: "Otus riding the water lily"
   - src: /assets/apps/otus/shot-09.jpg
-    alt: "The shop's alien skins shelf, all thirteen with their prices"
+    alt: "The shop's alien skins shelf, all fourteen with their prices"
   - src: /assets/apps/otus/shot-04.jpg
     alt: "A streak celebration with the comet"
+  - src: /assets/apps/otus/shot-10.jpg
+    alt: "A month of missions, with the hours and stardust it earned"
   - src: /assets/apps/otus/shot-06.jpg
     alt: "The galaxy view with several planets"
   - src: /assets/apps/otus/shot-07.jpg
