@@ -108,6 +108,7 @@ tiers:
       - "Timer in the Dynamic Island and on the Lock Screen"
       - "The exclusive Cosmic skin and planet styles"
       - "The Tea Saucer and Cosmic saucer rides"
+      - "Supports an ad-free, privacy-first app"
     price: "€2.99 / month · €25.99 / year"
 ---
 
