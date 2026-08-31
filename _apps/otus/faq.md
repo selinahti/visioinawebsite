@@ -161,8 +161,13 @@ Anything you paid for is kept. Pro, skins, saucers and rides all come back with
 Restore Purchases. Stardust is the exception: it is spent inside the app, so
 packs you bought cannot be restored.
 
-Deleting the app is not the same thing — your galaxy is in iCloud, so it comes
-straight back when you reinstall.
+Deleting the app is not the same thing, **as long as iCloud is on**: with OTUS
+switched on under Settings → your name → iCloud, your galaxy is kept there and
+comes straight back when you reinstall.
+
+Without iCloud there is nothing to come back from. Everything lives on that one
+device, so deleting the app erases it for good — there is no copy anywhere else,
+not even with us.
 
 ### What happens when I get a new iPhone?
 
