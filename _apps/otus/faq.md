@@ -207,9 +207,9 @@ There is no AI in the finished app. No model, no assistant, no AI service it
 talks to — nothing in it for an AI to read, and no AI for it to send anything
 to.
 
-We make OTUS with help. Parts of its code and parts of its writing began as
-drafts from AI tools, and every one of them was read, argued with and rewritten
-before those parts shipped. Nothing reaches you that a human has not
+OTUS is made by hand, with help. Parts of its code and parts of its writing
+began as drafts from AI tools, and every one of them was read, argued with and
+rewritten before those parts shipped. Nothing reaches you that a human has not
 decided to keep.
 
 The artwork is ours. Otus, his skins, the planets, the decorations and every
