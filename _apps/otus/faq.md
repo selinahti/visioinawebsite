@@ -201,6 +201,24 @@ asking before a mission. Subscribe again and they are where you left them.
 The Live Activity timer (Lock Screen & Dynamic Island) is an OTUS Pro feature,
 and the Dynamic Island itself requires an iPhone 14 Pro or newer.
 
+### Is OTUS made with AI?
+
+There is no AI in the finished app. No model, no assistant, no AI service it
+talks to — nothing in it for an AI to read, and no AI for it to send anything
+to.
+
+OTUS is made by a person, with help. Parts of its code and parts of its writing
+began as drafts from AI tools, and every one of them was read, argued with and
+rewritten before those parts shipped. Nothing reaches you that a human has not
+decided to keep.
+
+The artwork is ours. Otus, his skins, the planets, the decorations and every
+ride are original: none came out of an image generator, and none was bought from
+a stock library. We wrote our own drawing tools to make them — our own code
+composes the shapes, curves, colours and surfaces and renders the finished art,
+so a drawing can be adjusted by hand and remade. It is a slow way to make a
+spaceship, and the reason every spaceship here is ours alone.
+
 ### Does the app show ads or sell my data?
 
 Never. Your data lives on your device and in your private iCloud — we run no

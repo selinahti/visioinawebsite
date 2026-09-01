@@ -7,7 +7,7 @@ short_title: "Privacy"
 app_name: OTUS
 app_url: /apps/otus/
 brand_sub: OTUS
-updated: "Last updated: 10 August 2026"
+updated: "Last updated: 1 September 2026"
 description: "OTUS collects nothing: no account, no analytics, no ads, no tracking, no servers of ours."
 ---
 
@@ -76,6 +76,17 @@ OTUS contains no analytics or telemetry SDKs. The only usage information we ever
 see is Apple's own aggregated, anonymized App Store statistics from users who
 have opted in to sharing analytics with developers — this is controlled by your
 iOS settings, not by OTUS.
+
+## AI
+
+OTUS has no AI features, and nothing you do in it is sent to an AI service. Your
+sessions, streaks, tags and galaxy stay on your device and, if you switch on
+iCloud, in your own private iCloud database, which only you can open. We never
+hold a copy, so there is nothing of yours for us or anyone else to train on.
+
+AI tools are used in our own work, to help write OTUS's code and writing. That
+happens on our own machines, before a release, and your data plays no part in
+it.
 
 ## Children
 
