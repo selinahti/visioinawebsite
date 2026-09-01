@@ -157,9 +157,14 @@ Yes — Settings → **Start over**, at the very bottom. It erases your alien,
 stardust, streak, planets, missions and tags, on every device signed in to your
 iCloud, and cannot be undone.
 
-Anything you paid for is kept. Pro, skins, saucers and rides all come back with
-Restore Purchases. Stardust is the exception: it is spent inside the app, so
-packs you bought cannot be restored.
+Anything you paid for is kept: Pro, skins, saucers and the rides you bought all
+come back with Restore Purchases.
+
+Two things do not come back. Stardust is spent inside the app, so packs you
+bought cannot be restored. And the rides you *earned* — the Cracked Eggshell,
+the Viking Longship and the rest — are unlocked by your lifetime focused hours,
+so they go with the history that earned them. Focus those hours again and they
+come back the same way they did the first time.
 
 Deleting the app is not the same thing, **as long as iCloud is on**: with OTUS
 switched on under Settings → your name → iCloud, your galaxy is kept there and
