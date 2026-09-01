@@ -130,7 +130,7 @@ even a black hole — plus streak freezes, new planets, and more.
 
 Yes. The shop has an **Earned rides** shelf, and nothing on it has a price. Each
 ride there opens when your lifetime focus reaches the hours marked on it,
-starting with the **Viking Longship** at **100 hours**. They never go on sale,
+starting with the **Cracked Eggshell** at **25 hours**. They never go on sale,
 and the shelf shows how many hours you have left.
 
 ### Do I need iCloud?
