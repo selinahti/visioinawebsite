@@ -143,10 +143,10 @@ OTUS switched on under Settings → your name → iCloud → Saved to iCloud →
 All.
 
 We sync through your own iCloud rather than servers of ours, so that we never
-hold a copy of anything. The trade is that once your galaxy is in iCloud, it
-belongs to that account rather than to the handset. Switch OTUS off there, or
-sign out of iCloud, and iOS removes the app's iCloud data from that device:
-OTUS opens empty and tells you on screen where your galaxy is.
+hold a copy of anything. That's why, once your galaxy is in iCloud, that is
+where it lives — it follows your iCloud rather than the phone. Switch OTUS off
+there, or sign out of iCloud, and iOS removes the app's iCloud data from that
+device: OTUS opens empty and tells you on screen where your galaxy is.
 
 **Switching it off does not move your galaxy back onto the phone.** It only puts
 it out of reach from that device. Nothing is lost — switch it back on, or sign
