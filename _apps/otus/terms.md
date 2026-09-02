@@ -7,7 +7,7 @@ short_title: "Terms"
 app_name: OTUS
 app_url: /apps/otus/
 brand_sub: OTUS
-updated: "Last updated: 30 August 2026"
+updated: "Last updated: 1 September 2026"
 description: "The terms that apply when you use OTUS, including subscriptions and in-app purchases."
 ---
 
@@ -74,7 +74,7 @@ consumer protections of the country you live in.
 
 ## Our work
 
-- The app, its artwork, Otus himself and the OTUS name belong to
+- The app, its artwork and Otus himself are the copyright of
   {{ site.company.legal_name }}. Every drawing in the app is our own.
 - Buying OTUS Pro or an item gives you a personal licence to use the app on the
   terms of Apple's standard EULA. It transfers no ownership of anything.
