@@ -142,11 +142,15 @@ For your galaxy to follow you to another device, be signed in to iCloud with
 OTUS switched on under Settings → your name → iCloud → Saved to iCloud → See
 All.
 
-Once your galaxy is in iCloud, that is where it lives — so it follows your
-iCloud rather than the phone. Switch OTUS off there, or sign out of iCloud, and
-iOS removes the app's iCloud data from that device: OTUS opens empty and tells
-you on screen where your galaxy is. **Nothing is lost.** Switch it back on, or
-sign back in, and everything comes home.
+We sync through your own iCloud rather than servers of ours, so that we never
+hold a copy of anything. The trade is that once your galaxy is in iCloud, it
+belongs to that account rather than to the handset. Switch OTUS off there, or
+sign out of iCloud, and iOS removes the app's iCloud data from that device:
+OTUS opens empty and tells you on screen where your galaxy is.
+
+**Switching it off does not move your galaxy back onto the phone.** It only puts
+it out of reach from that device. Nothing is lost — switch it back on, or sign
+back in, and everything comes home.
 
 Your settings — reminder time, break length, whether Otus asks for a tag — live
 on each device rather than in iCloud, so a new phone starts with the defaults.
