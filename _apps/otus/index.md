@@ -91,7 +91,7 @@ tiers:
     text: >-
       The free app is the whole adventure, not a demo.
     points:
-      - "Missions from 5 minutes to 1 h 30"
+      - "Missions from 5 minutes to 2 hours"
       - "Full stardust earning, streaks and streak freezes"
       - "Day, week, month and year summaries of your focus"
       - "Decorations, new planets, the whole galaxy"

@@ -35,7 +35,7 @@ lifetime total — stardust is what you lose, never your progress.
 ### Is OTUS free?
 
 Yes — and the free version is the whole adventure, not a demo: focus missions
-from 5 minutes to 1 h 30, full stardust earning, streaks, decorations, new planets,
+from 5 minutes to 2 hours, full stardust earning, streaks, decorations, new planets,
 sharing, and Deep Focus that blocks all distracting apps. No ads ever.
 **OTUS Pro** (€2.99/month or €25.99/year) adds the power-ups: choose which
 apps get blocked, missions up to 8 hours, focus tags, your timer in the Dynamic
@@ -84,7 +84,7 @@ knows how many apps you chose and nothing about which ones.
 
 ### How long can a focus session be?
 
-5 minutes to 1 h 30 in the free version. OTUS Pro unlocks missions up to 8 hours.
+5 minutes to 2 hours in the free version. OTUS Pro unlocks missions up to 8 hours.
 
 ### What are focus tags?
 
