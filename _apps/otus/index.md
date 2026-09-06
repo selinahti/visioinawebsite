@@ -33,15 +33,17 @@ screenshots:
   - src: /assets/apps/otus/shot-01.jpg
     alt: "The focus dial, set for a mission"
   - src: /assets/apps/otus/shot-02.jpg
-    alt: "A session running while Otus collects stardust"
+    alt: "A session running while Otus, in corgi colours and a bow tie, collects stardust"
   - src: /assets/apps/otus/shot-05.jpg
-    alt: "A decorated planet"
+    alt: "A decorated planet, with Otus standing on it as a dalmatian in a gold crown"
   - src: /assets/apps/otus/shot-08.jpg
-    alt: "Otus riding the water lily"
+    alt: "Otus riding the water lily, pink and wearing a crown of flowers"
   - src: /assets/apps/otus/shot-09.jpg
     alt: "The shop's alien skins shelf, all fourteen with their prices"
+  - src: /assets/apps/otus/shot-11.jpg
+    alt: "The shop's outfits shelf, bought with stardust rather than money"
   - src: /assets/apps/otus/shot-04.jpg
-    alt: "A streak celebration with the comet"
+    alt: "A streak celebration with the comet, Otus yellow in star sunglasses"
   - src: /assets/apps/otus/shot-10.jpg
     alt: "A month of missions, with the hours and stardust it earned"
   - src: /assets/apps/otus/shot-06.jpg
