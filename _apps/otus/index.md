@@ -116,23 +116,23 @@ tiers:
 
 ## Why it works
 
-Most screen-time apps measure you. OTUS pays you.
+Put the phone down and something grows.
 
-It is screen time control the other way round. Instead of a weekly report
-telling you what you already knew, Deep Focus mode quietly shuts the door on
-the apps that pull you away — and every minute you spend on the other side of
-it comes back as stardust.
-
-Your focused minutes turn into something you can actually see: a planet with
+That is the whole trick. Every minute you spend away from the screen comes back
+as stardust, and stardust becomes things you can point at: a planet with
 volcanoes on it, a comet that has been burning for forty days, a galaxy you
-built one quiet afternoon at a time. There are no guilt graphs and no shame
-stats — just a small alien who is genuinely happy when you put the phone down.
+built one quiet afternoon at a time.
+
+It is screen time control that never once tells you off. Deep Focus mode shuts
+the door on the apps that pull you away, and there is no report waiting on the
+other side — no guilt graphs, no shame stats. Just a small alien who is
+genuinely happy you are somewhere else.
 
 Locking your phone is always fine, in either mode. In Normal mode, switching
-to another app is not: you get 30 seconds to come back before Otus drops the
-stardust. That one rule is the whole design.
+to another app is not: 30 seconds to come back, or Otus drops the stardust.
+That one rule is the whole design.
 
-Otus is off collecting while you get on with the rest of it — the book, the
+Otus keeps collecting while you get on with the rest of it — the book, the
 walk, the conversation nobody paused to check a notification. The best proof
 it is working is the part that never shows up on a screen.
 
