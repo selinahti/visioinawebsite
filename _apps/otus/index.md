@@ -124,17 +124,15 @@ volcanoes on it, a comet that has been burning for forty days, a galaxy you
 built one quiet afternoon at a time.
 
 It is screen time control that never once tells you off. Deep Focus mode shuts
-the door on the apps that pull you away, and there is no report waiting on the
-other side — no guilt graphs, no shame stats. Just a small alien who is
-genuinely happy you are somewhere else.
+the door on the apps that pull you away. Just a small alien who is genuinely
+happy you are somewhere else.
 
 Locking your phone is always fine, in either mode. In Normal mode, switching
 to another app is not: 30 seconds to come back, or Otus drops the stardust.
 That one rule is the whole design.
 
 Otus keeps collecting while you get on with the rest of it — the book, the
-walk, the conversation nobody paused to check a notification. The best proof
-it is working is the part that never shows up on a screen.
+walk, the conversation nobody paused to check a notification.
 
 ### Private by design
 
