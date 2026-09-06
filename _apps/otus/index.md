@@ -116,7 +116,12 @@ tiers:
 
 ## Why it works
 
-Most focus apps measure you. OTUS pays you.
+Most screen-time apps measure you. OTUS pays you.
+
+It is screen time control the other way round. Instead of a weekly report
+telling you what you already knew, Deep Focus quietly shuts the door on the
+apps that pull you away — and every minute you spend on the other side of it
+comes back as stardust.
 
 Your focused minutes turn into something you can actually see: a planet with
 volcanoes on it, a comet that has been burning for forty days, a galaxy you
@@ -126,6 +131,10 @@ stats — just a small alien who is genuinely happy when you put the phone down.
 Locking your phone is always fine. Switching to another app is not: you get
 30 seconds to come back before Otus drops the stardust. That one rule is the
 whole design.
+
+Otus is off collecting while you get on with the rest of it — the book, the
+walk, the conversation nobody paused to check a notification. The best proof
+it is working is the part that never shows up on a screen.
 
 ### Private by design
 
