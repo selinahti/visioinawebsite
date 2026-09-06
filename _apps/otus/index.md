@@ -75,8 +75,8 @@ features:
   - icon: "👽"
     title: Make Otus yours
     text: >-
-      Skins from a night-blue cyclops to seasonal specials, flying saucers and
-      special rides — including a teacup.
+      Skins from a night-blue cyclops to seasonal specials, outfits earned in
+      stardust, flying saucers and special rides — including a teacup.
   - icon: "🔐"
     title: Private by design
     text: >-

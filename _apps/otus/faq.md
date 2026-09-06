@@ -124,7 +124,20 @@ automatically protect the streak on a missed day.
 ### What can I spend stardust on?
 
 Decorations for your planets — moons, stars, rings, comets, auroras, volcanoes,
-even a black hole — plus streak freezes, new planets, and more.
+even a black hole — plus outfits for Otus, streak freezes, new planets, and more.
+
+### What are outfits?
+
+Things Otus wears, bought with stardust — starting at 25,000 for a bow. He wears
+one from each of four places at a time: something at the neck, something over
+the eyes, something on his head, and a halo — so a scarf, a masque and a crown
+go together while a crown and a cap do not.
+
+### I bought the Specs skin — do I get the glasses as an outfit?
+
+No. They look alike but they are different drawings: the outfit shades are a
+mirrored visor where Summer's are flat black, and the outfit specs are gold
+where the Specs skin's are grey. Buying the face pays for the face.
 
 ### Are there rides money can't buy?
 
@@ -158,14 +171,15 @@ on each device rather than in iCloud, so a new phone starts with the defaults.
 ### Can I start over?
 
 Yes — Settings → **Start over**, at the very bottom. It erases your alien,
-stardust, streak, planets, missions and tags, on every device signed in to your
-iCloud, and cannot be undone.
+stardust, streak, planets, missions, outfits and tags, on every device signed in
+to your iCloud, and cannot be undone.
 
 Anything you paid for is kept: Pro, skins, saucers and the rides you bought all
 come back with Restore Purchases.
 
 Two things do not come back. Stardust is spent inside the app, so packs you
-bought cannot be restored. And the rides you *earned* — the Cracked Eggshell,
+bought cannot be restored — and neither can outfits, which are paid for in
+stardust rather than money. And the rides you *earned* — the Cracked Eggshell,
 the Viking Longship and the rest — are unlocked by your lifetime focused hours,
 so they go with the history that earned them. Focus those hours again and they
 come back the same way they did the first time.
@@ -195,7 +209,7 @@ After that, the cosmetics that come with Pro — the Cosmic skin, the Tea Saucer
 and the Cosmic saucer — go back to the shop, and Otus puts on the most recent
 thing you bought instead. Anything you bought outright is yours: skins, saucers
 and rides, along with the rides you earned with focused hours, your planets,
-their decorations and your stardust.
+their decorations, your outfits and your stardust.
 
 Your focus tags stay too, and so does everything you tagged — OTUS simply stops
 asking before a mission. Subscribe again and they are where you left them.
