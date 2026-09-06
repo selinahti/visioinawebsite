@@ -124,8 +124,8 @@ volcanoes on it, a comet that has been burning for forty days, a galaxy you
 built one quiet afternoon at a time.
 
 It is screen time control that never once tells you off. Deep Focus mode shuts
-the door on the apps that pull you away. Just a small alien who is genuinely
-happy you are somewhere else.
+the door on the apps that pull you away — no guilt graphs, no shame stats, just
+a small alien who is genuinely happy you are somewhere else.
 
 Locking your phone is always fine, in either mode. In Normal mode, switching
 to another app is not: 30 seconds to come back, or Otus drops the stardust.
