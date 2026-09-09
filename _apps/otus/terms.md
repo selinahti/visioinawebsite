@@ -27,10 +27,10 @@ consumer protections of the country you live in.
   guarantees about productivity outcomes.
 - You need to be old enough to agree to these terms. If you are not, a parent
   or guardian has to agree for you, and has to approve anything you buy.
-- Deep Focus is built on Apple's Screen Time and Family Controls. That
+- Deep Space is built on Apple's Screen Time and Family Controls. That
   framework is Apple's, not ours: an iOS update can change how it behaves,
   change what a selection of apps actually covers, or withdraw it altogether.
-  If that changes what Deep Focus blocks, it is not something OTUS can override
+  If that changes what Deep Space blocks, it is not something OTUS can override
   from the inside — we can only update the app to keep up, where Apple leaves a
   way to.
 - The app is provided as-is, without warranty of any kind, to the maximum extent
@@ -64,7 +64,7 @@ consumer protections of the country you live in.
   digital purchase within 14 days is unaffected by these terms. That right is
   administered by Apple as the seller.
 - Parts of OTUS Pro rest on Apple technology we do not control: choosing which
-  apps Deep Focus blocks, and the Lock Screen and Dynamic Island timer. If Apple
+  apps Deep Space blocks, and the Lock Screen and Dynamic Island timer. If Apple
   changes or withdraws one of those, that part of Pro changes or stops with it.
   We would say so on this page rather than let it go quiet. Billing is Apple's,
   so anything you want to do about it goes to them.

@@ -31,17 +31,17 @@ Your alien collects 100 stardust per focused minute. Finish the full timer for a
 In Normal mode, switching to another app starts a 30-second countdown — come
 back in time or the stardust is dropped. Locking your phone is always fine.
 
-### What is Deep Focus?
+### What is Deep Space?
 
-Deep Focus uses Apple's Screen Time to actually block apps during your session.
+Deep Space uses Apple's Screen Time to actually block apps during your session.
 The free version blocks all distracting apps; OTUS Pro lets you choose which
 ones. It requires the Screen Time permission when first used.
 
-### Can I bypass Deep Focus?
+### Can I bypass Deep Space?
 
 No — the block screen has no escape button. Ending the mission early (and
 dropping the stardust) is the only way out. Please don't switch off OTUS's
-Screen Time permission in the Settings app: that disables Deep Focus entirely.
+Screen Time permission in the Settings app: that disables Deep Space entirely.
 
 ### How do streaks work?
 

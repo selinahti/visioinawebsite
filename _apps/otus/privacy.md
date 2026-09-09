@@ -52,9 +52,9 @@ OTUS does not need iCloud to run: with no iCloud account it works normally and
 keeps everything on that device. But if your galaxy is already in iCloud, that
 is where it stays.
 
-## Screen Time (Deep Focus)
+## Screen Time (Deep Space)
 
-Deep Focus uses Apple's Family Controls / Screen Time technology to block apps
+Deep Space uses Apple's Family Controls / Screen Time technology to block apps
 during a focus mission. This permission is processed entirely by iOS. By Apple's
 design, the apps you choose to block are opaque tokens to us — OTUS never learns
 which apps you use or block, and that information never leaves your device.

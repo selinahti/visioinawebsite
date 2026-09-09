@@ -51,7 +51,7 @@ screenshots:
   - src: /assets/apps/otus/shot-07.jpg
     alt: "The cosmic shop"
   - src: /assets/apps/otus/shot-03.jpg
-    alt: "Deep Focus app blocking"
+    alt: "Deep Space app blocking"
 
 features:
   - icon: "🛸"
@@ -60,7 +60,7 @@ features:
       Set a timer from 5 minutes to 8 hours. Every focused minute earns
       100 stardust — finish the mission for a +20% bonus.
   - icon: "🔒"
-    title: Deep Focus
+    title: Deep Space
     text: >-
       Really block distracting apps with Apple Screen Time until your mission
       is done. The block screen has no escape button.
@@ -97,7 +97,7 @@ tiers:
       - "Full stardust earning, streaks and streak freezes"
       - "Day, week, month and year summaries of your focus"
       - "Decorations, new planets, the whole galaxy"
-      - "Deep Focus blocking all distracting apps"
+      - "Deep Space blocking all distracting apps"
       - "Sharing your streak or galaxy as a picture"
       - "No ads, ever. No locked progress."
   - kind: pro
@@ -125,7 +125,7 @@ as stardust, and stardust becomes things you can point at: a planet with
 volcanoes on it, a comet that has been burning for forty days, a galaxy you
 built one quiet afternoon at a time.
 
-It is screen time control that never once tells you off. Deep Focus mode shuts
+It is screen time control that never once tells you off. Deep Space mode shuts
 the door on the apps that pull you away — no guilt graphs, no shame stats, just
 a small alien who is genuinely happy you are somewhere else.
 
@@ -140,5 +140,5 @@ walk, the conversation nobody paused to check a notification.
 
 OTUS has no account system, no analytics, no ads and no servers of ours. Your
 galaxy lives on your iPhone and syncs through your own private iCloud, which
-we cannot read. The apps you choose to block in Deep Focus are opaque tokens
+we cannot read. The apps you choose to block in Deep Space are opaque tokens
 handled entirely by iOS — OTUS never learns which apps you use.

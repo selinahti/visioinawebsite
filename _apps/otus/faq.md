@@ -8,7 +8,7 @@ app_name: OTUS
 app_url: /apps/otus/
 brand_sub: OTUS
 updated: "Everything about missions, stardust, streaks & Otus."
-description: "Answers about OTUS focus missions, stardust, streaks, Deep Focus, Pro and privacy."
+description: "Answers about OTUS focus missions, stardust, streaks, Deep Space, Pro and privacy."
 ---
 
 ### How do I earn stardust?
@@ -36,7 +36,7 @@ lifetime total — stardust is what you lose, never your progress.
 
 Yes — and the free version is the whole adventure, not a demo: focus missions
 from 5 minutes to 2 hours, full stardust earning, streaks, decorations, new planets,
-sharing, and Deep Focus that blocks all distracting apps. No ads ever.
+sharing, and Deep Space that blocks all distracting apps. No ads ever.
 **OTUS Pro** (€2.99/month or €25.99/year) adds the power-ups: choose which
 apps get blocked, missions up to 8 hours, focus tags, your timer in the Dynamic
 Island and on the Lock Screen, the exclusive Cosmic skin, your pick of each
@@ -48,21 +48,21 @@ In Normal mode, switching to another app starts a 30-second countdown — come
 back in time or the stardust is dropped. Locking your phone is always fine.
 Giving up deliberately is treated more kindly: see above.
 
-### What is Deep Focus?
+### What is Deep Space?
 
-Deep Focus uses Apple's Screen Time to actually block apps during your session.
+Deep Space uses Apple's Screen Time to actually block apps during your session.
 The free version blocks all distracting apps; OTUS Pro lets you choose which
 ones. It asks for the Screen Time permission when first used.
 
-### Can I bypass Deep Focus?
+### Can I bypass Deep Space?
 
 No — the block screen has no escape button. Ending the mission early (and
 dropping the stardust) is the only way out. Please don't switch off OTUS's
-Screen Time permission in the Settings app: that disables Deep Focus entirely.
+Screen Time permission in the Settings app: that disables Deep Space entirely.
 
-### An app is still open during Deep Focus — why?
+### An app is still open during Deep Space — why?
 
-Two things to check. First, on OTUS Pro, Deep Focus only blocks the apps you
+Two things to check. First, on OTUS Pro, Deep Space only blocks the apps you
 picked in Settings → Blocked apps — anything outside that selection stays
 available. The free version blocks every categorised app, so this only applies
 to Pro.
@@ -77,7 +77,7 @@ Settings → Screen Time.
 
 Ticking every category in Apple's app picker does not include Safari — it sits
 outside them, so the only way to catch it is to search for it by name in the
-picker and tick it there. After that Deep Focus shields it like anything else.
+picker and tick it there. After that Deep Space shields it like anything else.
 
 That picker is Apple's, not ours, and it hands back a sealed selection: OTUS
 knows how many apps you chose and nothing about which ones.
