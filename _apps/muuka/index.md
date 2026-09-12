@@ -59,8 +59,8 @@ features:
   - icon: "🛸"
     title: Focus missions
     text: >-
-      Set a timer from 5 minutes to 8 hours. Every focused minute earns
-      100 stardust — finish the mission for a +20% bonus.
+      Set a timer from 5 minutes to 2 hours — up to 8 with Pro. Every focused
+      minute earns 100 stardust; finish the mission for a +20% bonus.
   - icon: "🔒"
     title: Deep Space
     text: >-

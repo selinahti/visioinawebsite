@@ -8,7 +8,7 @@ short_title: "Terms"
 app_name: MUUKA
 app_url: /apps/muuka/
 brand_sub: MUUKA
-updated: "Last updated: 1 September 2026"
+updated: "Last updated: 12 September 2026"
 description: "The terms that apply when you use MUUKA, including subscriptions and in-app purchases."
 ---
 

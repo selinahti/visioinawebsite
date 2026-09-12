@@ -8,7 +8,7 @@ short_title: "Privacy"
 app_name: MUUKA
 app_url: /apps/muuka/
 brand_sub: MUUKA
-updated: "Last updated: 1 September 2026"
+updated: "Last updated: 12 September 2026"
 description: "MUUKA collects nothing: no account, no analytics, no ads, no tracking, no servers of ours."
 ---
 
@@ -32,7 +32,8 @@ where you left off:
 
 - Your alien's name and appearance
 - Focus session history, streaks, and stardust balance
-- Planet decorations and galaxy progress
+- Focus tags, and which missions wear them
+- Planet decorations, planet names and styles, and galaxy progress
 
 App preferences — notification times, break length, the toggles in Settings —
 stay on each device and are not synced.
@@ -68,8 +69,11 @@ are verified on-device.
 
 ## Notifications
 
-If you allow notifications, they are scheduled locally on your device (session
-completion, streak reminders). There is no push-notification server.
+If you allow notifications, they are scheduled locally on your device: a
+mission finishing, a warning when you wander off mid-mission and a notice if
+the stardust was dropped, a break ending, and a daily reminder at a time you
+choose. There is no push-notification server of ours. The only pushes MUUKA
+receives are Apple's own silent iCloud sync signals, which carry no content.
 
 ## Analytics
 
