@@ -71,8 +71,9 @@ are verified on-device.
 
 If you allow notifications, they are scheduled locally on your device: a
 mission finishing, a warning when you wander off mid-mission and a notice if
-the stardust was dropped, a break ending, and a daily reminder at a time you
-choose. There is no push-notification server of ours. The only pushes MUUKA
+the stardust was dropped, a break ending, a daily reminder at a time you
+choose, and a streak reminder at 20:00 on days your streak is at risk. There
+is no push-notification server of ours. The only pushes MUUKA
 receives are Apple's own silent iCloud sync signals, which carry no content.
 
 ## Analytics

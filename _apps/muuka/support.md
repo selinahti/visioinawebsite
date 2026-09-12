@@ -48,7 +48,8 @@ Screen Time permission in the Settings app: that disables Deep Space entirely.
 
 Focus at least 25 minutes in a day and that day qualifies. Consecutive qualified
 days keep your comet burning. Streak freezes (bought with stardust)
-automatically protect the streak on a missed day.
+automatically protect the streak on a missed day, and on a day your streak is
+at risk Muuka reminds you at 20:00.
 
 ### How do I move to a new phone?
 

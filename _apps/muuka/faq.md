@@ -118,6 +118,10 @@ Focus at least 25 minutes in a day and that day qualifies. Consecutive qualified
 days keep your comet burning. Streak freezes (bought with stardust)
 automatically protect the streak on a missed day.
 
+If a day is running out with your streak still at risk, Muuka says so at 20:00
+— only on those days, and only while there is a streak to lose. Switch it off
+under Settings → Notifications → Streak reminder.
+
 ### What can I spend stardust on?
 
 Decorations for your planets — moons, stars, rings, comets, auroras, volcanoes,
