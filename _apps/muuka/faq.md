@@ -105,16 +105,12 @@ week, a month or a year: time focused, stardust earned, how many missions you
 started and how many you finished. Minutes count even when a mission was given
 up; only the stardust is lost. With Pro, it also breaks the time down by tag.
 
-### What does 'MUUKA' mean?
+### Why is he called Muuka?
 
-*Muuka* is the Finnish word for a creature — the affectionate kind. You would use
-it for a small animal you can't quite name: something that scurries past you in
-the forest, or a friend's peculiar cat. Visioina is a Finnish studio, so naming
-our alien after it felt like the obvious thing to do.
-
-It fits him, too. Muuka is a small creature who lives in your phone, gathers
-stardust while you're busy elsewhere, and is genuinely delighted when you put
-the phone down.
+*Muukalainen* is Finnish for alien. Muuka is the small, friendly version of it —
+the nickname an alien earns once he's yours. He crash-landed in your pocket, so
+he got a name from where he landed: Visioina is a Finnish studio, and a Finnish
+name for our alien felt like the obvious thing to do.
 
 ### How do streaks work?
 
