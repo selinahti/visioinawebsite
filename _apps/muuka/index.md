@@ -11,9 +11,10 @@ app_name: MUUKA
 brand_sub: MUUKA
 tagline: "Focus. Collect. Grow a galaxy."
 summary: >-
-  Meet Muuka — a small alien who collects stardust while you focus. Put the
-  phone down and your galaxy grows. Leave mid-mission, and poor Muuka drops the
-  stardust. Digital wellbeing made fun, rewarding and gamified.
+  Meet Muuka — a small alien who collects stardust while you're off living
+  your life. Put the phone down and your galaxy grows. Leave mid-mission, and
+  poor Muuka drops the stardust. Digital wellbeing made fun, rewarding and
+  gamified.
 description: >-
   MUUKA is a focus timer for iPhone. Every focused minute earns stardust you
   spend on planets, decorations and a growing galaxy. No ads, no account,
