@@ -69,9 +69,9 @@ consumer protections of the country you live in.
   changes or withdraws one of those, that part of Pro changes or stops with it.
   We would say so on this page rather than let it go quiet. Billing is Apple's,
   so anything you want to do about it goes to them.
-- Stardust (the in-app currency) has no monetary value and cannot be exchanged
-  or transferred outside the app. It is not sold separately from the purchases
-  above, and it carries no cash-redemption right.
+- Stardust (the in-app currency) has no monetary value. You earn it by
+  focusing or buy it in the packs above, and either way it cannot be
+  exchanged, transferred or redeemed for cash, inside the app or outside it.
 
 ## Our work
 
