@@ -16,7 +16,7 @@ description: >-
 This notice is about the **website** at visioina.com. Our apps are separate
 products with their own privacy policies, and what this page says about the
 website does not describe what any app does — see the
-[OTUS Privacy Policy]({{ '/apps/otus/privacy/' | relative_url }}).
+[MUUKA Privacy Policy]({{ '/apps/muuka/privacy/' | relative_url }}).
 
 ## The short version
 

@@ -1,24 +1,25 @@
 ---
-app_slug: otus
-permalink: /apps/otus/support/
+app_slug: muuka
+permalink: /apps/muuka/support/
+redirect_from: /apps/otus/support/
 nav_order: 3
 title: "Support"
 short_title: "Support"
-app_name: OTUS
-app_url: /apps/otus/
-brand_sub: OTUS
+app_name: MUUKA
+app_url: /apps/muuka/
+brand_sub: MUUKA
 updated: "We usually reply within a few days."
-description: "Get help with OTUS — contact, common questions, and how to reach a real person."
+description: "Get help with MUUKA — contact, common questions, and how to reach a real person."
 ---
 
 Something not working, a question, or an idea for a new decoration? Email
-[{{ site.company.email }}](mailto:{{ site.company.email }}?subject=OTUS%20support)
+[{{ site.company.email }}](mailto:{{ site.company.email }}?subject=MUUKA%20support)
 — include your iOS version and what you were doing when the problem appeared,
-and we'll get Otus back on track.
+and we'll get Muuka back on track.
 
 ## Frequently asked questions
 
-The most common ones are below — the [full FAQ]({{ '/apps/otus/faq/' | relative_url }})
+The most common ones are below — the [full FAQ]({{ '/apps/muuka/faq/' | relative_url }})
 has everything.
 
 ### How do I earn stardust?
@@ -34,13 +35,13 @@ back in time or the stardust is dropped. Locking your phone is always fine.
 ### What is Deep Space?
 
 Deep Space uses Apple's Screen Time to actually block apps during your session.
-The free version blocks all distracting apps; OTUS Pro lets you choose which
+The free version blocks all distracting apps; MUUKA Pro lets you choose which
 ones. It requires the Screen Time permission when first used.
 
 ### Can I bypass Deep Space?
 
 No — the block screen has no escape button. Ending the mission early (and
-dropping the stardust) is the only way out. Please don't switch off OTUS's
+dropping the stardust) is the only way out. Please don't switch off MUUKA's
 Screen Time permission in the Settings app: that disables Deep Space entirely.
 
 ### How do streaks work?
@@ -55,12 +56,12 @@ Progress syncs through your personal iCloud — sign the new iPhone in to the sa
 Apple Account and your galaxy appears. For paid items, tap *Restore purchases*
 in the shop or Settings.
 
-### How do I cancel OTUS Pro?
+### How do I cancel MUUKA Pro?
 
 Subscriptions are managed by Apple: Settings → your name → Subscriptions →
-OTUS Pro → Cancel. You keep Pro until the end of the paid period.
+MUUKA Pro → Cancel. You keep Pro until the end of the paid period.
 
-### Why can't Otus's timer appear in the Dynamic Island?
+### Why can't Muuka's timer appear in the Dynamic Island?
 
-The Live Activity timer (Lock Screen & Dynamic Island) is an OTUS Pro feature,
+The Live Activity timer (Lock Screen & Dynamic Island) is a MUUKA Pro feature,
 and the Dynamic Island itself requires an iPhone 14 Pro or newer.

@@ -11,12 +11,12 @@ file directly on github.com: open it, press the pencil icon, edit, then
 
 ## Adding a new app
 
-1. In `_apps/`, copy the whole `otus/` folder and rename it, e.g. to `minde/`.
+1. In `_apps/`, copy the whole `muuka/` folder and rename it, e.g. to `minde/`.
    (On github.com it is easier to create the new files one at a time, using the
-   OTUS files as a template.)
+   MUUKA files as a template.)
 2. In **every file** of the new folder, change these two lines:
-   - `app_slug: otus` → `app_slug: minde`
-   - `permalink: /apps/otus/…` → `permalink: /apps/minde/…`
+   - `app_slug: muuka` → `app_slug: minde`
+   - `permalink: /apps/muuka/…` → `permalink: /apps/minde/…`
 3. In `index.md`, edit the rest of the front matter: `app_name`, `tagline`,
    `summary`, `features`, `tiers`, `screenshots`.
 4. Put the images in `assets/apps/minde/`.
@@ -57,7 +57,7 @@ description for screen readers.
 | Apps overview | `apps.html` |
 | Contact page | `contact.html` |
 | Website privacy notice | `privacy.md` |
-| OTUS pages | `_apps/otus/` |
+| MUUKA pages | `_apps/muuka/` |
 | Company name, business ID, city, email | `_config.yml` → `company:` |
 | Top menu links | `_data/nav.yml` |
 | Colours, fonts, spacing | `assets/css/site.css` |

@@ -1,26 +1,27 @@
 ---
 layout: app
 kind: app
-app_slug: otus
-permalink: /apps/otus/
+app_slug: muuka
+permalink: /apps/muuka/
+redirect_from: /apps/otus/
 nav_order: 0
 
-title: "OTUS — The Cosmic Focus App"
-app_name: OTUS
-brand_sub: OTUS
+title: "MUUKA — The Cosmic Focus App"
+app_name: MUUKA
+brand_sub: MUUKA
 tagline: "Focus. Collect. Grow a galaxy."
 summary: >-
-  Meet Otus — a small alien who collects stardust while you focus. Put the
-  phone down and your galaxy grows. Leave mid-mission, and poor Otus drops the
+  Meet Muuka — a small alien who collects stardust while you focus. Put the
+  phone down and your galaxy grows. Leave mid-mission, and poor Muuka drops the
   stardust. Digital wellbeing made fun, rewarding and gamified.
 description: >-
-  OTUS is a focus timer for iPhone. Every focused minute earns stardust you
+  MUUKA is a focus timer for iPhone. Every focused minute earns stardust you
   spend on planets, decorations and a growing galaxy. No ads, no account,
   no tracking.
 
-app_icon: /assets/apps/otus/icon.png
-app_mascot: /assets/apps/otus/otus_happy.png
-app_mascot_alt: "Otus, a mint-green alien with one glowing antenna"
+app_icon: /assets/apps/muuka/icon.png
+app_mascot: /assets/apps/muuka/muuka_happy.png
+app_mascot_alt: "Muuka, a mint-green alien with one glowing antenna"
 platform: "iPhone · iOS 17 or later"
 appstore_url:            # ← paste the App Store link here once the app is live
 status: "Coming soon"
@@ -30,27 +31,27 @@ status: "Coming soon"
 # list is the only thing that decides what the page shows first — do not
 # "fix" the sequence by renaming the files.
 screenshots:
-  - src: /assets/apps/otus/shot-01.jpg
+  - src: /assets/apps/muuka/shot-01.jpg
     alt: "The focus dial, set for a mission"
-  - src: /assets/apps/otus/shot-02.jpg
-    alt: "A session running while Otus, in corgi colours and a bow tie, collects stardust"
-  - src: /assets/apps/otus/shot-05.jpg
-    alt: "A decorated planet, with Otus standing on it as a dalmatian in a gold crown"
-  - src: /assets/apps/otus/shot-08.jpg
-    alt: "Otus riding the water lily, pink and wearing a crown of flowers"
-  - src: /assets/apps/otus/shot-09.jpg
+  - src: /assets/apps/muuka/shot-02.jpg
+    alt: "A session running while Muuka, in corgi colours and a bow tie, collects stardust"
+  - src: /assets/apps/muuka/shot-05.jpg
+    alt: "A decorated planet, with Muuka standing on it as a dalmatian in a gold crown"
+  - src: /assets/apps/muuka/shot-08.jpg
+    alt: "Muuka riding the water lily, pink and wearing a crown of flowers"
+  - src: /assets/apps/muuka/shot-09.jpg
     alt: "The shop's alien skins shelf, all fourteen with their prices"
-  - src: /assets/apps/otus/shot-11.jpg
+  - src: /assets/apps/muuka/shot-11.jpg
     alt: "The shop's outfits shelf, bought with stardust rather than money"
-  - src: /assets/apps/otus/shot-04.jpg
-    alt: "A streak celebration with the comet, Otus yellow in star sunglasses"
-  - src: /assets/apps/otus/shot-10.jpg
+  - src: /assets/apps/muuka/shot-04.jpg
+    alt: "A streak celebration with the comet, Muuka yellow in star sunglasses"
+  - src: /assets/apps/muuka/shot-10.jpg
     alt: "A month of missions, with the hours and stardust it earned"
-  - src: /assets/apps/otus/shot-06.jpg
+  - src: /assets/apps/muuka/shot-06.jpg
     alt: "The galaxy view with several planets"
-  - src: /assets/apps/otus/shot-07.jpg
+  - src: /assets/apps/muuka/shot-07.jpg
     alt: "The cosmic shop"
-  - src: /assets/apps/otus/shot-03.jpg
+  - src: /assets/apps/muuka/shot-03.jpg
     alt: "Deep Space app blocking"
 
 features:
@@ -75,7 +76,7 @@ features:
       Spend stardust on moons, rings, auroras, volcanoes — even a black hole.
       Discover new planets and name them yourself.
   - icon: "👽"
-    title: Make Otus yours
+    title: Make Muuka yours
     text: >-
       Skins from a night-blue cyclops to seasonal specials, outfits earned in
       stardust, flying saucers and special rides — including a teacup.
@@ -102,7 +103,7 @@ tiers:
       - "No ads, ever. No locked progress."
   - kind: pro
     icon: "👑"
-    title: "OTUS Pro"
+    title: "MUUKA Pro"
     text: >-
       For people who want the power-ups.
     points:
@@ -130,15 +131,15 @@ the door on the apps that pull you away — no guilt graphs, no shame stats, jus
 a small alien who is genuinely happy you are somewhere else.
 
 Locking your phone is always fine, in either mode. In Normal mode, switching
-to another app is not: 30 seconds to come back, or Otus drops the stardust.
+to another app is not: 30 seconds to come back, or Muuka drops the stardust.
 That one rule is the whole design.
 
-Otus keeps collecting while you get on with the rest of it — the book, the
+Muuka keeps collecting while you get on with the rest of it — the book, the
 walk, the conversation nobody paused to check a notification.
 
 ### Private by design
 
-OTUS has no account system, no analytics, no ads and no servers of ours. Your
+MUUKA has no account system, no analytics, no ads and no servers of ours. Your
 galaxy lives on your iPhone and syncs through your own private iCloud, which
 we cannot read. The apps you choose to block in Deep Space are opaque tokens
-handled entirely by iOS — OTUS never learns which apps you use.
+handled entirely by iOS — MUUKA never learns which apps you use.

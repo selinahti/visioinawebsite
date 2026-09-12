@@ -42,6 +42,10 @@ defaults:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  # The app was OTUS until 2026-09-12 and lived at /apps/otus/. Those URLs
+  # are in the first builds' in-app links and in early conversations, so
+  # each MUUKA page redirects from its old address rather than 404ing.
+  - jekyll-redirect-from
 
 exclude:
   - README.md
