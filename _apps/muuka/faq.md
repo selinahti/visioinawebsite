@@ -39,9 +39,10 @@ Yes — and the free version is the whole adventure, not a demo: focus missions
 from 5 minutes to 2 hours, full stardust earning, streaks, decorations, new planets,
 sharing, and Deep Space that blocks all distracting apps. No ads ever.
 **MUUKA Pro** (€2.99/month or €25.99/year) adds the power-ups: choose which
-apps get blocked, missions up to 8 hours, focus tags, your timer in the Dynamic
-Island and on the Lock Screen, the exclusive Cosmic skin, your pick of each
-planet's style, and the Tea Saucer and Cosmic saucer rides.
+apps get blocked, autopilot missions that launch on their own, missions up to 8
+hours, focus tags, your timer in the Dynamic Island and on the Lock Screen, the
+exclusive Cosmic skin, your pick of each planet's style, and the Tea Saucer and
+Cosmic saucer rides.
 
 ### What breaks a focus session?
 
@@ -86,6 +87,23 @@ knows how many apps you chose and nothing about which ones.
 ### How long can a focus session be?
 
 5 minutes to 2 hours in the free version. MUUKA Pro unlocks missions up to 8 hours.
+
+### What is an autopilot mission?
+
+A Deep Space mission that starts by itself at a time you set — say every
+weekday at 09:00 for two hours. Pro only: Settings → MUUKA Pro → **Autopilot
+Missions**, up to five.
+
+At the set time you get a notification, the apps you chose are blocked, and
+Muuka collects stardust until the time is up — whether or not you touch the
+phone. Open MUUKA during it to watch the timer, or afterwards to count the
+stardust.
+
+Good to know: iOS may start it a minute or two late; Muuka is only drawn when
+the app is open; the stardust is counted when you next open the app. To skip a
+single day, tap **Skip** on the Focus tab — the timetable stays. To end early,
+tap **Land early** and keep half the stardust. If you start your own mission
+first, the plan waits and takes over when yours ends.
 
 ### What are focus tags?
 

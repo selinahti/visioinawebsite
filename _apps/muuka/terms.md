@@ -8,7 +8,7 @@ short_title: "Terms"
 app_name: MUUKA
 app_url: /apps/muuka/
 brand_sub: MUUKA
-updated: "Last updated: 12 September 2026"
+updated: "Last updated: 18 September 2026"
 description: "The terms that apply when you use MUUKA, including subscriptions and in-app purchases."
 ---
 
@@ -65,7 +65,8 @@ consumer protections of the country you live in.
   digital purchase within 14 days is unaffected by these terms. That right is
   administered by Apple as the seller.
 - Parts of MUUKA Pro rest on Apple technology we do not control: choosing which
-  apps Deep Space blocks, and the Lock Screen and Dynamic Island timer. If Apple
+  apps Deep Space blocks, autopilot missions that start on a timetable, and the
+  Lock Screen and Dynamic Island timer. If Apple
   changes or withdraws one of those, that part of Pro changes or stops with it.
   We would say so on this page rather than let it go quiet. Billing is Apple's,
   so anything you want to do about it goes to them.

@@ -109,6 +109,7 @@ tiers:
       For people who want the power-ups.
     points:
       - "Pick which apps get blocked"
+      - "Autopilot missions that launch on their own"
       - "Missions up to 8 hours"
       - "Tag your missions and see where the hours went"
       - "Timer in the Dynamic Island and on the Lock Screen"
