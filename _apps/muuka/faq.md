@@ -24,9 +24,9 @@ Both bonuses are a percentage of the base, and both apply to every mission you
 finish. So a 50-minute mission on a six-day streak pays
 5,000 + 1,000 + 1,500 = **7,500 stardust**.
 
-### What if I give up or leave the app?
+### What if I land early or leave the app?
 
-Give up on purpose and Muuka keeps **half** of the stardust collected so far,
+Tap **Land early** and Muuka keeps **half** of the stardust collected so far,
 with no bonuses. Wander into another app in Normal mode and don't come back
 within 30 seconds, and the whole lot is dropped.
 
@@ -48,7 +48,7 @@ Cosmic saucer rides.
 
 In Normal mode, switching to another app starts a 30-second countdown — come
 back in time or the stardust is dropped. Locking your phone is always fine.
-Giving up deliberately is treated more kindly: see above.
+Landing early on purpose is treated more kindly: see above.
 
 ### What is Deep Space?
 
@@ -102,7 +102,7 @@ stardust.
 Good to know: iOS may start it a minute or two late; Muuka is only drawn when
 the app is open; the stardust is counted when you next open the app. To skip a
 single day, tap **Skip** on the Focus tab — the timetable stays. To end early,
-tap **Land early** and keep half the stardust. If you start your own mission
+tap **Land early** and keep half the stardust, like any mission. If you start your own mission
 first, the plan waits and takes over when yours ends.
 
 ### What are focus tags?
