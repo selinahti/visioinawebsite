@@ -65,7 +65,7 @@ consumer protections of the country you live in.
   digital purchase within 14 days is unaffected by these terms. That right is
   administered by Apple as the seller.
 - Parts of MUUKA Pro rest on Apple technology we do not control: choosing which
-  apps Deep Space blocks, autopilot missions that start on a timetable, and the
+  apps Deep Space blocks, Autopilot Missions that start on a timetable, and the
   Lock Screen and Dynamic Island timer. If Apple
   changes or withdraws one of those, that part of Pro changes or stops with it.
   We would say so on this page rather than let it go quiet. Billing is Apple's,

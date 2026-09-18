@@ -73,7 +73,7 @@ If you allow notifications, they are scheduled locally on your device: a
 mission finishing, a warning when you wander off mid-mission and a notice if
 the stardust was dropped, a break ending, a daily reminder at a time you
 choose, a streak reminder at 20:00 on days your streak is at risk, and — with
-MUUKA Pro — a notice when an autopilot mission starts and when it ends. There
+MUUKA Pro — a notice when an Autopilot Mission starts and when it ends. There
 is no push-notification server of ours. The only pushes MUUKA
 receives are Apple's own silent iCloud sync signals, which carry no content.
 

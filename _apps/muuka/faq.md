@@ -39,7 +39,7 @@ Yes — and the free version is the whole adventure, not a demo: focus missions
 from 5 minutes to 2 hours, full stardust earning, streaks, decorations, new planets,
 sharing, and Deep Space that blocks all distracting apps. No ads ever.
 **MUUKA Pro** (€2.99/month or €25.99/year) adds the power-ups: choose which
-apps get blocked, autopilot missions that launch on their own, missions up to 8
+apps get blocked, Autopilot Missions that launch on their own, missions up to 8
 hours, focus tags, your timer in the Dynamic Island and on the Lock Screen, the
 exclusive Cosmic skin, your pick of each planet's style, and the Tea Saucer and
 Cosmic saucer rides.
@@ -88,7 +88,7 @@ knows how many apps you chose and nothing about which ones.
 
 5 minutes to 2 hours in the free version. MUUKA Pro unlocks missions up to 8 hours.
 
-### What is an autopilot mission?
+### What is an Autopilot Mission?
 
 A Deep Space mission that starts by itself at a time you set — say every
 weekday at 09:00 for two hours. Pro only: Settings → MUUKA Pro → **Autopilot
