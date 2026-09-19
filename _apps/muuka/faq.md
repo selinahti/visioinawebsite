@@ -90,20 +90,17 @@ knows how many apps you chose and nothing about which ones.
 
 ### What is an Autopilot Mission?
 
-A Deep Space mission that starts by itself at a time you set — say every
-weekday at 09:00 for two hours. Pro only: Settings → MUUKA Pro → **Autopilot
-Missions**, up to five.
+A Deep Space mission that starts by itself at a time you set — for example
+every weekday at 09:00 for two hours. Pro only: Settings → MUUKA Pro →
+**Autopilot Missions**, up to five at a time.
 
-At the set time you get a notification, the apps you chose are blocked, and
-Muuka collects stardust until the time is up — whether or not you touch the
-phone. Open MUUKA during it to watch the timer, or afterwards to count the
-stardust.
+At the set time the apps you chose are blocked and Muuka collects stardust
+until the time is up, whether or not you touch the phone. You get a
+notification at the start and the end; open MUUKA afterwards to collect, or
+during to watch the timer.
 
-Good to know: iOS may start it a minute or two late; Muuka is only drawn when
-the app is open; the stardust is counted when you next open the app. To skip a
-single day, tap **Skip** on the Focus tab — the timetable stays. To end early,
-tap **Land early** and keep half the stardust, like any mission. If you start your own mission
-first, the plan waits and takes over when yours ends.
+To skip one day, tap **Skip** on the Focus tab. To end early, tap **Land
+early** and keep half the stardust.
 
 ### What are focus tags?
 
