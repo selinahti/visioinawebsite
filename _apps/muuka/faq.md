@@ -97,7 +97,9 @@ every weekday at 09:00 for two hours. Pro only: Settings → MUUKA Pro →
 At the set time the apps you chose are blocked and Muuka collects stardust
 until the time is up, whether or not you touch the phone. You get a
 notification at the start and the end; open MUUKA afterwards to collect, or
-during to watch the timer.
+during to watch the timer. Opening it once during the mission also puts the
+timer in the Dynamic Island and on the Lock Screen — until then Muuka works
+quietly in the background.
 
 To skip one day, tap **Skip** on the Focus tab. To end early, tap **Land
 early** and keep half the stardust.
