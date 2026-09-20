@@ -51,9 +51,11 @@ screenshots:
   - src: /assets/apps/muuka/shot-06.jpg
     alt: "The galaxy view with several planets"
   - src: /assets/apps/muuka/shot-07.jpg
-    alt: "The cosmic shop"
+    alt: "The cosmic shop, with the MUUKA Pro card"
   - src: /assets/apps/muuka/shot-03.jpg
-    alt: "Deep Space app blocking"
+    alt: "Deep Space app blocking, with the next Autopilot Mission lined up"
+  - src: /assets/apps/muuka/shot-12.jpg
+    alt: "The Autopilot Missions list: three plans on a timetable"
 
 features:
   - icon: "🛸"
