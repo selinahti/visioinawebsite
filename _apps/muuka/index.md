@@ -41,15 +41,17 @@ screenshots:
   - src: /assets/apps/muuka/shot-08.jpg
     alt: "Muuka riding the water lily, pink and wearing a crown of flowers"
   - src: /assets/apps/muuka/shot-09.jpg
-    alt: "The shop's alien skins shelf, all fourteen with their prices"
+    alt: "The shop's alien skins shelf, with their prices"
   - src: /assets/apps/muuka/shot-11.jpg
     alt: "The shop's outfits shelf, bought with stardust rather than money"
+  - src: /assets/apps/muuka/shot-13.jpg
+    alt: "The Streaks tab: a forty-day comet, with today already focused"
   - src: /assets/apps/muuka/shot-04.jpg
     alt: "A streak celebration with the comet, Muuka yellow in star sunglasses"
   - src: /assets/apps/muuka/shot-10.jpg
     alt: "A month of missions, with the hours and stardust it earned"
   - src: /assets/apps/muuka/shot-06.jpg
-    alt: "The galaxy view with several planets"
+    alt: "The galaxy view: seven planets, each with its own rings and decorations"
   - src: /assets/apps/muuka/shot-07.jpg
     alt: "The cosmic shop, with the MUUKA Pro card"
   - src: /assets/apps/muuka/shot-03.jpg
