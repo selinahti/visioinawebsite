@@ -27,7 +27,7 @@ has everything.
 Your alien collects 100 stardust per focused minute. Finish the full timer for a
 +20% bonus, and growing streaks add up to +50% more.
 
-### What breaks a focus session?
+### What breaks a focus mission?
 
 In Normal mode, switching to another app starts a 30-second countdown — come
 back in time or the stardust is dropped. Locking your phone is always fine.

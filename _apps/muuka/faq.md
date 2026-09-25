@@ -44,7 +44,7 @@ hours, focus tags, your timer in the Dynamic Island and on the Lock Screen, the
 exclusive Cosmic skin, your pick of each planet's style, and the Tea Saucer and
 Cosmic saucer rides.
 
-### What breaks a focus session?
+### What breaks a focus mission?
 
 In Normal mode, switching to another app starts a 30-second countdown — come
 back in time or the stardust is dropped. Locking your phone is always fine.
@@ -84,7 +84,7 @@ picker and tick it there. After that Deep Space shields it like anything else.
 That picker is Apple's, not ours, and it hands back a sealed selection: MUUKA
 knows how many apps you chose and nothing about which ones.
 
-### How long can a focus session be?
+### How long can a focus mission be?
 
 5 minutes to 2 hours in the free version. MUUKA Pro unlocks missions up to 8 hours.
 
