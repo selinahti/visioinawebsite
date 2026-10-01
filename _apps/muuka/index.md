@@ -58,6 +58,8 @@ screenshots:
     alt: "Deep Space app blocking, with the next Autopilot Mission lined up"
   - src: /assets/apps/muuka/shot-12.jpg
     alt: "The Autopilot Missions list: three plans on a timetable"
+  - src: /assets/apps/muuka/shot-14.jpg
+    alt: "The medium widget on the Home Screen, counting today's minutes and naming the next Autopilot Mission"
 
 features:
   - icon: "🛸"
@@ -105,6 +107,7 @@ tiers:
       - "Decorations, new planets, the whole galaxy"
       - "Deep Space blocking all distracting apps"
       - "Sharing your streak or galaxy as a picture"
+      - "Home Screen and Lock Screen widgets"
       - "No ads, ever. No locked progress."
   - kind: pro
     icon: "👑"

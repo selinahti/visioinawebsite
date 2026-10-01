@@ -122,6 +122,19 @@ week, a month or a year: time focused, stardust earned, how many missions you
 started and how many you finished. Minutes count even when a mission was given
 up; only the stardust is lost. With Pro, it also breaks the time down by tag.
 
+### Is there a widget?
+
+Three, and they are all free.
+
+On the Home Screen, a **small** one — Muuka inside a ring of today's 25 minutes,
+with your comet and the day count above him — and a **medium** one that adds
+this week's seven days and, with Pro, when your next Autopilot Mission starts.
+On the Lock Screen, a **circle** with the comet, the ring and the number.
+
+While a mission is running the ring becomes the mission and the time left counts
+down on its own. A break does the same. To add one, hold down an empty part of
+the Home Screen, tap **+** at the top, and look for MUUKA.
+
 ### Why is he called Muuka?
 
 *Muukalainen* is Finnish for alien. Muuka is the small, friendly version of it —
