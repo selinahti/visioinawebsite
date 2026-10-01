@@ -59,7 +59,7 @@ screenshots:
   - src: /assets/apps/muuka/shot-12.jpg
     alt: "The Autopilot Missions list: three plans on a timetable"
   - src: /assets/apps/muuka/shot-14.jpg
-    alt: "The medium widget on the Home Screen, counting today's minutes and naming the next Autopilot Mission"
+    alt: "The medium Home Screen widget: today's minutes, this week's days, and the next Autopilot Mission"
 
 features:
   - icon: "🛸"
