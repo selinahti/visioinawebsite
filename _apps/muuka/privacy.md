@@ -67,6 +67,18 @@ Subscriptions and one-time purchases are processed by Apple through your Apple
 Account. We receive no payment details, no name, no address. Purchase receipts
 are verified on-device.
 
+## Widgets
+
+The widgets are drawn from a small record MUUKA writes into a storage area
+shared with them on your own device. Nothing is sent anywhere, and the widgets
+have no way of their own to reach the internet — they can only show what the
+app last told them.
+
+Worth knowing before you add one: a **Lock Screen** widget is visible without
+unlocking, so your streak and how much of today's goal is done can be read by
+anyone who picks up your phone. The Home Screen ones need the phone unlocked
+like any other app. Removing a widget removes what it was showing with it.
+
 ## Notifications
 
 If you allow notifications, they are scheduled locally on your device: a
