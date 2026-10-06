@@ -124,21 +124,18 @@ up; only the stardust is lost. With Pro, it also breaks the time down by tag.
 
 ### Is there a widget?
 
-Three, and they are all free.
+Three, and they are all free: a **small** and a **medium** one for the Home
+Screen, and a **circle** for the Lock Screen. They show your comet, your streak,
+and today's 25 minutes filling up — and while a mission or a break is running,
+the time left counting down. The medium one also shows this week, and with Pro,
+when your next Autopilot Mission starts.
 
-On the Home Screen, a **small** one — Muuka inside a ring, with your comet and
-your streak above him — and a **medium** one that adds this week's seven days
-and, with Pro, when your next Autopilot Mission starts. On the Lock Screen, a
-**circle**: one of the small round widgets that sit in a row under the clock,
-holding the comet, the ring and the streak day count.
+A widget is not quite live: iOS decides when to redraw one, so just after you
+start a mission it can sit a moment behind the app.
 
-The ring is today's 25 minutes filling up. While a mission is running it becomes
-the mission instead, and the time left counts down on its own; a break does the
-same.
-
-To add one to the Home Screen, hold down an empty part of it, tap **+** at the
-top and look for MUUKA. For the Lock Screen, hold down the Lock Screen, choose
-to customise it, and tap the row under the clock.
+To add one, hold down an empty part of the Home Screen, tap **+** and look for
+MUUKA. For the Lock Screen, hold it down, choose to customise it, and tap the
+row under the clock.
 
 ### Why is he called Muuka?
 
