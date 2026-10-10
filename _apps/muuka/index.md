@@ -24,8 +24,11 @@ app_icon: /assets/apps/muuka/icon.png
 app_mascot: /assets/apps/muuka/muuka_happy.png
 app_mascot_alt: "Muuka, a mint-green alien with one glowing antenna"
 platform: "iPhone · iOS 17 or later"
-appstore_url:            # ← paste the App Store link here once the app is live
-status: "Coming soon"
+# No storefront in the path: apps.apple.com/app/id<n> redirects each visitor
+# to their own country's store, where a /fi/ link would send everyone to the
+# Finnish one.
+appstore_url: https://apps.apple.com/app/id6808751133
+status: "Out now"
 
 # Display order, not file order. Each shot-NN.jpg keeps the number of the
 # screen it was captured from in the app repo (screenshots/raw/), so this
