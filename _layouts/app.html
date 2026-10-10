@@ -17,8 +17,22 @@ layout: base
     {%- if page.tagline %}<div class="tagline">{{ page.tagline }}</div>{% endif %}
     {%- if page.summary %}<p class="lede">{{ page.summary }}</p>{% endif %}
     <div class="btn-row">
+      {%- comment %}
+        Apple's own badge artwork, not a button of ours. The marketing
+        guidelines say to "use only the badge artwork provided" and forbid
+        recreating it — a custom pill carrying the badge's own wording is
+        exactly that, which is what used to be here. Black is the stated
+        default, and its grey border is drawn for dark backgrounds like this
+        one. The badge is also meant to be SUBORDINATE rather than the
+        loudest thing in the layout, so it is not restyled to shout.
+        Downloaded from toolbox.marketingtools.apple.com; using it obliges
+        the Apple credit line in the footer.
+      {%- endcomment %}
       {%- if page.appstore_url %}
-      <a class="btn btn-primary" href="{{ page.appstore_url }}">Download on the App Store</a>
+      <a class="appstore-badge" href="{{ page.appstore_url }}">
+        <img src="{{ '/assets/img/app-store-badge.svg' | relative_url }}"
+             width="162" height="54" alt="Download on the App Store">
+      </a>
       {%- else %}
       <span class="btn btn-quiet">Coming soon to the App&nbsp;Store</span>
       {%- endif %}

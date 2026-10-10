@@ -9,7 +9,7 @@ nav_order: 0
 title: "MUUKA — The Cosmic Focus App"
 app_name: MUUKA
 brand_sub: MUUKA
-tagline: "Focus. Collect. Grow a galaxy."
+tagline: "Unplug. Focus. Grow a galaxy."
 summary: >-
   Meet Muuka — a small alien who collects stardust while you focus on life
   outside your phone. Put the phone down and your galaxy grows. Leave
